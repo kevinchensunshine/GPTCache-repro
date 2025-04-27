@@ -1,0 +1,3 @@
+[submodule "GPTCache"]
+	path = GPTCache
+	url = https://github.com/zilliztech/GPTCache.git
