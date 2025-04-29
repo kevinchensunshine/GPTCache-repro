@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# Copyright (c) Megvii, Inc. and its affiliates.
 
 import argparse
 import json
