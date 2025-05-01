@@ -1,0 +1,4017 @@
+{
+  "n_queries": 500,
+  "cache_hit_positive": 53,
+  "cache_hit_negative": 362,
+  "cache_misses": 85,
+  "fail_count": 0,
+  "avg_latency_sec": 0.4695,
+  "avg_embedding_time_sec": 0.1121,
+  "avg_search_time_sec": 0.0008,
+  "similarity_threshold": 0.7,
+  "cache_size": 100000,
+  "max_points": 0,
+  "n_test_samples": 500,
+  "sample_frac_positive": 0.0,
+  "results": [
+    {
+      "id": "1080",
+      "query": "What is your review of Tata Consultancy Services?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.2557
+    },
+    {
+      "id": "845",
+      "query": "Are there benefits to taking a cold shower after a workout?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 2.3286
+    },
+    {
+      "id": "1026",
+      "query": "Why should you stay longer than 1 day visiting the Dead Sea?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1856
+    },
+    {
+      "id": "849",
+      "query": "Can we apply Nassim Taleb's Antifragile concepts to software development?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 3.3933
+    },
+    {
+      "id": "794",
+      "query": "What does the term \"\"legal permanent resident alien\"\" refer to?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1297
+    },
+    {
+      "id": "602",
+      "query": "What is enterprise mobility management?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.2015
+    },
+    {
+      "id": "1132",
+      "query": "How are semiconductors actually doped?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 2.1234
+    },
+    {
+      "id": "876",
+      "query": "If video game ideas are worth practically nothing, why are Game Design Documents (GDD) so expensive?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1245
+    },
+    {
+      "id": "1033",
+      "query": "Could the new haste spell replace the rage spell in Clash of Clans?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1271
+    },
+    {
+      "id": "674",
+      "query": "What do people both from within and from other countries think about Americans (good and bad)?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1244
+    },
+    {
+      "id": "628",
+      "query": "I have a very dry and frizzy hair. I want to get a shiny, smooth and soft hair naturally. What are some ideas?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1294
+    },
+    {
+      "id": "630",
+      "query": "Am I becoming a sociopath?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.2405
+    },
+    {
+      "id": "920",
+      "query": "What do I do now that I hate everything?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1205
+    },
+    {
+      "id": "677",
+      "query": "What is a suitable solar panel installation provider near Nicasio, California CA?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1267
+    },
+    {
+      "id": "1067",
+      "query": "How do I reverse the rotation of BLDC geared motor?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 3.1551
+    },
+    {
+      "id": "1121",
+      "query": "Freeletics seems very useful. Does it have any side effect? What are the precautions that have to be taken?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.144
+    },
+    {
+      "id": "981",
+      "query": "What is Google's On-Site interview like for a software engineer?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.123
+    },
+    {
+      "id": "786",
+      "query": "What is guerilla warfare like? How does it feel to wage war against a superior foe?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 2.5775
+    },
+    {
+      "id": "895",
+      "query": "Why am I smelling ammonia when I get out of the shower?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1507
+    },
+    {
+      "id": "647",
+      "query": "Did the Ancient Phoenicians discover the Americas?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1208
+    },
+    {
+      "id": "791",
+      "query": "What is an abdominal injury that takes a year or more to heal?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1466
+    },
+    {
+      "id": "746",
+      "query": "I'm in a gay relationship but my boyfriend lives with a male roommate and that makes me very uncomfortable. What should I do?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.2155
+    },
+    {
+      "id": "1034",
+      "query": "Which are the cleanest cities in Africa?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1224
+    },
+    {
+      "id": "601",
+      "query": "Can I train a neural network one example at a time?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1249
+    },
+    {
+      "id": "870",
+      "query": "What's next after the Permanent Court of Arbitration is exposed to be a fake UN-backed Arbitration ?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1428
+    },
+    {
+      "id": "1024",
+      "query": "Of those who know him personally, what kind of a guy is the real Donald Trump?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.4547
+    },
+    {
+      "id": "591",
+      "query": "When did demonetization occur in India?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1245
+    },
+    {
+      "id": "695",
+      "query": "Who are the top professors in Machine Learning?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1206
+    },
+    {
+      "id": "951",
+      "query": "What is infinity plus infinity? ",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1431
+    },
+    {
+      "id": "607",
+      "query": "What are some interesting questions asked in an interview?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.127
+    },
+    {
+      "id": "1145",
+      "query": "What is the difference between Facebook and WhatsApp?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1478
+    },
+    {
+      "id": "600",
+      "query": "What hotel in Nagpur would be safe for unmarried couples, without the harassment of police, hotel staff, and moral police?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1473
+    },
+    {
+      "id": "890",
+      "query": "What was the immediate cause of the Revolt of 1857?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1274
+    },
+    {
+      "id": "592",
+      "query": "What are the career options after doing a BA programme from DU? What are the available streams for PG thereafter?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.181
+    },
+    {
+      "id": "852",
+      "query": "How should I prepare for CAT to secure a seat in the IIMs?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1451
+    },
+    {
+      "id": "1089",
+      "query": "Can a website be listed on ebay.com for auction?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1426
+    },
+    {
+      "id": "648",
+      "query": "What is the meaning of life?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1431
+    },
+    {
+      "id": "1134",
+      "query": "If I will buy Jio sim today, shall I get unlimited or 4gb data?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1408
+    },
+    {
+      "id": "966",
+      "query": "What is the average electrical engineering salary in the U.S.?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1301
+    },
+    {
+      "id": "945",
+      "query": "When does the boston marathon start?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.139
+    },
+    {
+      "id": "819",
+      "query": "What kind of engineering is best to become a software developer at tech companies like Google and Facebook?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1287
+    },
+    {
+      "id": "924",
+      "query": "I met my crush of 15 years a few days back. Now I want to get into a relationship with her and make her my life partner. How can I do it so that she understands my emotions?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1272
+    },
+    {
+      "id": "625",
+      "query": "If Halal and Kosher went to war (food fight) who would win?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1863
+    },
+    {
+      "id": "715",
+      "query": "Why don't more people attend church?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1827
+    },
+    {
+      "id": "672",
+      "query": "Which is the best smartphone 2016?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1829
+    },
+    {
+      "id": "1058",
+      "query": "Is the MacBook Air worth the cost? Why or why not?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1858
+    },
+    {
+      "id": "918",
+      "query": "Why is global competitiveness important for the international market?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.187
+    },
+    {
+      "id": "1055",
+      "query": "Where can I get a prepaid SIM card in Rio?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1408
+    },
+    {
+      "id": "690",
+      "query": "I am very keen on pursuing an MS in management from the UK and getting into investment banking later on. How do i decorate my graduate school resume?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1324
+    },
+    {
+      "id": "655",
+      "query": "Can the IIT JEE be cracked in 7 months?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.7324
+    },
+    {
+      "id": "1112",
+      "query": "What can we expect from Pakistan after the retirement of the Army General, Raheel Sharif?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1201
+    },
+    {
+      "id": "948",
+      "query": "What are the top classified sites in each country?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1253
+    },
+    {
+      "id": "623",
+      "query": "What small detail from an Indian movie do you love?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1233
+    },
+    {
+      "id": "750",
+      "query": "Who will win Bigg Boss 7?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1263
+    },
+    {
+      "id": "947",
+      "query": "What is fangdd.com's business model?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1253
+    },
+    {
+      "id": "1140",
+      "query": "Is the system of higher education in India failing our students?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1393
+    },
+    {
+      "id": "663",
+      "query": "I have taken a grandchild everywhere for years at great expense to me for gas. Should I ask for some reimbursement for my expenses?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1827
+    },
+    {
+      "id": "833",
+      "query": "What are some tips for buying a Linux laptop?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1783
+    },
+    {
+      "id": "827",
+      "query": "Who is the blind Bulgarian mystic woman?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1789
+    },
+    {
+      "id": "716",
+      "query": "What is life imprisonment?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1546
+    },
+    {
+      "id": "606",
+      "query": "How would adding a code to an Excel workbook with VBA, resting in Dropbox, be beneficial if it is to be sold as a digital product through WooCommerce?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 2.8267
+    },
+    {
+      "id": "711",
+      "query": "How long should I lay in the sun to get an even tan?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1248
+    },
+    {
+      "id": "1157",
+      "query": "If I have a private instagram account, will my photos with tags be visible to the people searching that tag?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1271
+    },
+    {
+      "id": "816",
+      "query": "Reservations in Present India (after 69 years of freedom) are still according to Castes and not according to Per Annum Income. Why?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1324
+    },
+    {
+      "id": "1120",
+      "query": "Do you prefer Costa Rica or Nicaragua?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1264
+    },
+    {
+      "id": "1074",
+      "query": "Does God exist?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1317
+    },
+    {
+      "id": "681",
+      "query": "How fast is Fedex home delivery, typically?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1249
+    },
+    {
+      "id": "1013",
+      "query": "What is the most embarrassing moment of your life when you were a kid?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1469
+    },
+    {
+      "id": "714",
+      "query": "Why do humans want to be different from other humans?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1386
+    },
+    {
+      "id": "747",
+      "query": "What were the key points of Narendra Modi's interview to Network18 on 2nd September?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1253
+    },
+    {
+      "id": "975",
+      "query": "How do I learn the art of conversation?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1887
+    },
+    {
+      "id": "789",
+      "query": "Are Italians considered white?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.2369
+    },
+    {
+      "id": "597",
+      "query": "What is the difference between CBSE and CBSE-i?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1254
+    },
+    {
+      "id": "1048",
+      "query": "Can I purchase a life insurance policy for someone else?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1252
+    },
+    {
+      "id": "887",
+      "query": "Which is the best call taxi and cab service in Chennai?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1942
+    },
+    {
+      "id": "921",
+      "query": "What do guys think of tall girls?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1514
+    },
+    {
+      "id": "755",
+      "query": "My girlfriend loves me a lot. How do I convince her to leave me?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.2072
+    },
+    {
+      "id": "1010",
+      "query": "Were any human remains of the 19 hijackers from 9/11 recovered, and if so, what has been done with them?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.0959
+    },
+    {
+      "id": "978",
+      "query": "How far would you go for love?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1583
+    },
+    {
+      "id": "779",
+      "query": "I want to buy a 32 inches LED Tv under Rs 20000. Which TV should I buy? Is online LED TV is safe (in terms of warranty)?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1492
+    },
+    {
+      "id": "643",
+      "query": "Which stream should I choose during TCS EIS ILP training to get projects in Embedded system/VLSI?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 2.044
+    },
+    {
+      "id": "619",
+      "query": "What are some things new employees should know going into their first day at Verizon?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1244
+    },
+    {
+      "id": "1130",
+      "query": "Which is better, masters in computer science at Arizona State University or University College London for a foreigner (Indian National)?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1439
+    },
+    {
+      "id": "911",
+      "query": "What are the advantages of gmsk?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1419
+    },
+    {
+      "id": "656",
+      "query": "How do I stop someone from following me on Twitter?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1402
+    },
+    {
+      "id": "1150",
+      "query": "How often do Cirque du Soleil performers make mistakes during a show?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1857
+    },
+    {
+      "id": "797",
+      "query": "What is the meaning behind [The Duck Song]?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1555
+    },
+    {
+      "id": "645",
+      "query": "What strikes first time visitors as special or unusual when they arrive in Karachi, Sindh, Pakistan?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.8724
+    },
+    {
+      "id": "901",
+      "query": "What is bore in engin?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.2298
+    },
+    {
+      "id": "820",
+      "query": "What are some most popular Halloween Costumes in 2016?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1219
+    },
+    {
+      "id": "1071",
+      "query": "What are the most interesting products and innovations that Citi Trends is coming out with in 2016?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1208
+    },
+    {
+      "id": "952",
+      "query": "How chicken is a chicken?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1764
+    },
+    {
+      "id": "1142",
+      "query": "What are the job opportunities after doing an MS in mathematics?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1327
+    },
+    {
+      "id": "943",
+      "query": "What is Malala Yousafzai doing in the UK and not going back to Pakistan to fight for women's rights?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.4955
+    },
+    {
+      "id": "999",
+      "query": "What are the good MOOCs in environmental health?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1744
+    },
+    {
+      "id": "869",
+      "query": "How does Bollywood work in India? How much money does the actor, director get and is it related to the earnings of the movie? How do cinemas make profit?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1243
+    },
+    {
+      "id": "883",
+      "query": "What is the most efficient way to make money?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1369
+    },
+    {
+      "id": "683",
+      "query": "Do Scorpios like persistence?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1318
+    },
+    {
+      "id": "1014",
+      "query": "What are the typical traits powerful people have?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 2.0921
+    },
+    {
+      "id": "738",
+      "query": "Was Prophet Muhammad a Shia or Sunni considering his beliefs and methods of worship?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.231
+    },
+    {
+      "id": "638",
+      "query": "What is the difference between mixed farming and integrated farming?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1473
+    },
+    {
+      "id": "745",
+      "query": "Will I ever be able to fall out of love?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1386
+    },
+    {
+      "id": "889",
+      "query": "Are bananas constipating?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1587
+    },
+    {
+      "id": "944",
+      "query": "What was the conflict between Green Arrow and Superman that lead him to lose his hand?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1489
+    },
+    {
+      "id": "1116",
+      "query": "What is meaning of gazaba e hind?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1742
+    },
+    {
+      "id": "1001",
+      "query": "Is the music being added to your iTunes library during the 3 month trial free? Will it be charged later? And if not will it still be in your library if you unsubscribe before trial ends?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1457
+    },
+    {
+      "id": "633",
+      "query": "Where is the event horizon?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1803
+    },
+    {
+      "id": "727",
+      "query": "How do I know if my battery or alternator is bad?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1439
+    },
+    {
+      "id": "767",
+      "query": "I got 2 a1 1a2 and 2 b1 in SA1 can I get 10 CGPA in 10 th?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1404
+    },
+    {
+      "id": "593",
+      "query": "Does iOS 8 work comfortably on an iPhone 4S? Should I upgrade if I have a 4S? How about an iPhone 4?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1667
+    },
+    {
+      "id": "700",
+      "query": "What is the meaning of life?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1778
+    },
+    {
+      "id": "723",
+      "query": "What is the longest roller coaster in the United Kingdom and how does it compare to the longest roller coasters in other countries?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1715
+    },
+    {
+      "id": "1088",
+      "query": "I want to become a programmer and software engineer. What course and degree should I take when I get to college?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.141
+    },
+    {
+      "id": "1158",
+      "query": "Is it a problem if my Indian passport does not contain a last name?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1777
+    },
+    {
+      "id": "706",
+      "query": "Is India the only country who used earth's gravity to send a probe to deep space?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1814
+    },
+    {
+      "id": "618",
+      "query": "Hypothetical Scenarios: How would it have affected Hong Kong, Macau, Taiwan and modern China had the capital of the PRC been located in Guangdong instead of Beijing?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 3.0286
+    },
+    {
+      "id": "884",
+      "query": "How do I understand this code?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1322
+    },
+    {
+      "id": "903",
+      "query": "Ancient Romans spoke Latin.  Modern Italians speak Italian.  When did Italian become the language of Italy?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1256
+    },
+    {
+      "id": "725",
+      "query": "Are there premier college MBAs working for Accenture BPO Operations? At what levels and profiles do they work?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1431
+    },
+    {
+      "id": "842",
+      "query": "How could you prove the existence of God?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 2.0734
+    },
+    {
+      "id": "785",
+      "query": "I have the felling that I need to masturbate every day, how do I make it stop?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 4.3925
+    },
+    {
+      "id": "811",
+      "query": "How do I connect Wifi Router with in-built Modem?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1245
+    },
+    {
+      "id": "787",
+      "query": "What are the best sites for poetry critique?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1438
+    },
+    {
+      "id": "956",
+      "query": "Can I get any college with a score of 390-410 in neet 2016?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.127
+    },
+    {
+      "id": "613",
+      "query": "Why are beer bottles amber coloured while other alcohol bottles are in white glass?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1302
+    },
+    {
+      "id": "754",
+      "query": "What are the good things and bad things of Dubai?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1421
+    },
+    {
+      "id": "995",
+      "query": "Is it possible to become pregnant without deep penetration?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.2057
+    },
+    {
+      "id": "589",
+      "query": "Is philosophy a religion?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1367
+    },
+    {
+      "id": "761",
+      "query": "Is it safe to travel to the India Pakistan border?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.156
+    },
+    {
+      "id": "859",
+      "query": "I have a 40k JEE Mains rank. Can I get MPAE at the NSIT, PSCT or MAM at DTU?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.3795
+    },
+    {
+      "id": "1118",
+      "query": "I like this girl that I don't really know and tomorrow is a playoff game and girls wear guys away jerseys and I want her to wear mine what Can I do?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.6157
+    },
+    {
+      "id": "1038",
+      "query": "How often do birds collide with each other midair?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1502
+    },
+    {
+      "id": "878",
+      "query": "How much does a uber driver earn in India?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1317
+    },
+    {
+      "id": "954",
+      "query": "What's the best wireless sound bar for a TV?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1853
+    },
+    {
+      "id": "848",
+      "query": "How can I make my MacBook suitable for heavy games?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1814
+    },
+    {
+      "id": "667",
+      "query": "Can hate be love?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.2198
+    },
+    {
+      "id": "1091",
+      "query": "How do you make a rainbow scarf on a loom?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1298
+    },
+    {
+      "id": "831",
+      "query": "What does Jimmy Wales think of X?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1246
+    },
+    {
+      "id": "839",
+      "query": "How much will it cost to get a crown tattoo on my wrist in USA?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1471
+    },
+    {
+      "id": "699",
+      "query": "I ranked under 50 in Google Apac Test Round B. Should I expect an interview call?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1539
+    },
+    {
+      "id": "1039",
+      "query": "How do I learn data mining algorithms?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.212
+    },
+    {
+      "id": "1061",
+      "query": "What is a good substitution for corn flour in a recipe?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1538
+    },
+    {
+      "id": "868",
+      "query": "Does it snow in Mexico?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1806
+    },
+    {
+      "id": "682",
+      "query": "What is the difference between \"\":=\"\" and \"\"::=\"\" ?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.9789
+    },
+    {
+      "id": "989",
+      "query": "What do Russians think of the American government?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.4328
+    },
+    {
+      "id": "1040",
+      "query": "How do I get the IP address for phone number?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.3308
+    },
+    {
+      "id": "875",
+      "query": "How can I make analysis for airline reservation system for study?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1494
+    },
+    {
+      "id": "1087",
+      "query": "What is the corporate culture like at Netflix? How is the culture different than other companies?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1267
+    },
+    {
+      "id": "988",
+      "query": "What is the concrete mix ratios of M30 and M40?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1248
+    },
+    {
+      "id": "784",
+      "query": "Which do you think is more beautiful and why? Indian type marriage or Western type wedding?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1262
+    },
+    {
+      "id": "653",
+      "query": "What is concrete?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1414
+    },
+    {
+      "id": "873",
+      "query": "What is the best way to learn music?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 4.4514
+    },
+    {
+      "id": "636",
+      "query": "As a teen, all the songs that I really like turn out to be old (70s-80s music). How do I fix this problem?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1516
+    },
+    {
+      "id": "972",
+      "query": "How can I get the user's order history using \"\"Login with Amazon\"\"?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 2.7327
+    },
+    {
+      "id": "1137",
+      "query": "Is always the rational decision the best decision?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1248
+    },
+    {
+      "id": "1016",
+      "query": "How do I smooth down cowlicks in my hair?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1234
+    },
+    {
+      "id": "749",
+      "query": "I have got 68% in class 12 boards, if I want to take up polytechnic course in delhi, which colleges should I prefer, what is the scope ahead?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1317
+    },
+    {
+      "id": "847",
+      "query": "If I lived in Australia, How would I go about buying a residential property in Thailand?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1251
+    },
+    {
+      "id": "778",
+      "query": "Why do lions have a mane?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.0533
+    },
+    {
+      "id": "885",
+      "query": "How can I become an forensic scientist?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1276
+    },
+    {
+      "id": "900",
+      "query": "What was your favorite movie of 2000?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1218
+    },
+    {
+      "id": "662",
+      "query": "Where can I meet rabbits and pet them in Singapore?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1274
+    },
+    {
+      "id": "703",
+      "query": "How many people work on each of Google's various products?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1266
+    },
+    {
+      "id": "812",
+      "query": "Which is the font in the Google font library that looks most similar to the unit font?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 0.889
+    },
+    {
+      "id": "1103",
+      "query": "Why does Iron Man refer to Spider-Man as \"\"Underoos\"\" in the new Captain America: Civil War trailer?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.174
+    },
+    {
+      "id": "927",
+      "query": "What will happen to Tamil nada chief minister J Jayalalitha`s personal properties like Her house at poes garden etc after her death?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1255
+    },
+    {
+      "id": "1101",
+      "query": "What is your biggest complaint with Alibaba?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1248
+    },
+    {
+      "id": "635",
+      "query": "How can I write a Mapreduce program base on Hadoop?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1305
+    },
+    {
+      "id": "1100",
+      "query": "Who would win in a battle between a mastiff dog and a gorilla?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.6975
+    },
+    {
+      "id": "810",
+      "query": "How do I prepare for chse exam?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1498
+    },
+    {
+      "id": "987",
+      "query": "What is a pinger account?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1257
+    },
+    {
+      "id": "1028",
+      "query": "Do planet X exist?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1263
+    },
+    {
+      "id": "771",
+      "query": "How do I buy a ticket for sea travel, if I want to travel inter-state?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1333
+    },
+    {
+      "id": "585",
+      "query": "Why do I have joint pain?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.141
+    },
+    {
+      "id": "912",
+      "query": "Which field of engineering gives the highest salary?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1746
+    },
+    {
+      "id": "696",
+      "query": "If a single woman were elected President of the United States, would she have a First Lady or First Gentleman?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1548
+    },
+    {
+      "id": "1050",
+      "query": "How can I use Omegle on my iPod Touch and how is it compared to using aFreeChat.com?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1492
+    },
+    {
+      "id": "1155",
+      "query": "What possible causes of lung cancer are there besides smoking?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1274
+    },
+    {
+      "id": "611",
+      "query": "What is the compensation package for a new grad Software Engineer starting at Microsoft in 2014?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1315
+    },
+    {
+      "id": "709",
+      "query": "How do I get myself to become motivated and just study all the time?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1455
+    },
+    {
+      "id": "1144",
+      "query": "How do you make $1 million in a day with someone?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.145
+    },
+    {
+      "id": "1005",
+      "query": "At what temperature does a standard ink (such as a bic pen) freeze?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.127
+    },
+    {
+      "id": "962",
+      "query": "How can I delete photos from my iPhone but keep them in iCloud?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1453
+    },
+    {
+      "id": "1122",
+      "query": "How can I prepare for UGC net chemistry?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 2.8262
+    },
+    {
+      "id": "1146",
+      "query": "How do the tourist attractions on the Scandinavian Highlands compare to attractions in Latvia?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1751
+    },
+    {
+      "id": "1105",
+      "query": "What is the scariest thing to you?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1222
+    },
+    {
+      "id": "760",
+      "query": "Can I kiss my friend even though he is my only friend and he loves me?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1257
+    },
+    {
+      "id": "886",
+      "query": "Does holding urine for a long time cause urinary tract infection in men?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1324
+    },
+    {
+      "id": "877",
+      "query": "Is thein leather costlier than bison leather?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1458
+    },
+    {
+      "id": "752",
+      "query": "What is sex?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1427
+    },
+    {
+      "id": "1092",
+      "query": "How can I lock Whatsapp on my phone?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1286
+    },
+    {
+      "id": "857",
+      "query": "How many seats will AAP win in Punjab and Goa 2017?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1271
+    },
+    {
+      "id": "1051",
+      "query": "Is acting a good career option?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1445
+    },
+    {
+      "id": "922",
+      "query": "What is the difference between Parsis and Muslims?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1512
+    },
+    {
+      "id": "867",
+      "query": "Which search query returns the most number of search results on Google?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1467
+    },
+    {
+      "id": "639",
+      "query": "What is the molecular geometry of I3? How is it calculated?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1842
+    },
+    {
+      "id": "719",
+      "query": "What is the difference between Twitter and Hotpotato?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.4607
+    },
+    {
+      "id": "823",
+      "query": "What happens if you make a beating heart in a dead human?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.126
+    },
+    {
+      "id": "1076",
+      "query": "What is calorific value?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.126
+    },
+    {
+      "id": "658",
+      "query": "I am IS student can I get mtech CS in IIT?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1282
+    },
+    {
+      "id": "1054",
+      "query": "Why does Apple review apps?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.145
+    },
+    {
+      "id": "805",
+      "query": "What should I do to restore my self confidence and faith in myself?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1659
+    },
+    {
+      "id": "1141",
+      "query": "Which is the best fiction book on startups by an Indian author?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1495
+    },
+    {
+      "id": "712",
+      "query": "What does it mean when a guy says to another guy \"\"I love you\"\"?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.137
+    },
+    {
+      "id": "996",
+      "query": "Where can I use a credit card without the CVV numbers?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1814
+    },
+    {
+      "id": "916",
+      "query": "In the movie Hateful Eight, a character says \"\"He had a yellow stripe painted down his back\"\" I know this stands for cowardice, but what is the origin?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1277
+    },
+    {
+      "id": "731",
+      "query": "Can a girl be in a relationship and have a guy best friend?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1268
+    },
+    {
+      "id": "882",
+      "query": "What are some good gifts to give to your parents on their marriage anniversary?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1612
+    },
+    {
+      "id": "983",
+      "query": "I am 21 years old, and I weigh 45 kg. How can I increase my body weight?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1644
+    },
+    {
+      "id": "621",
+      "query": "How can I make a WiFi router by myself?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.151
+    },
+    {
+      "id": "961",
+      "query": "Can I ask my company to apply for a green card even if I don't have an H1B?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1414
+    },
+    {
+      "id": "862",
+      "query": "What is the meaning of Mercury square North Node in a natal chart?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 2.8823
+    },
+    {
+      "id": "879",
+      "query": "I am a 23-year-old girl working in a reputed IT company with a good salary package and easy work-life balance (8 months of work experience). But for the past 2-3 months I am feeling like I am not interested in IT. What options do I have for my career now (work field change/higher studies)?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1494
+    },
+    {
+      "id": "1125",
+      "query": "What are the life lessons one can learn from Batman?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1238
+    },
+    {
+      "id": "629",
+      "query": "What are your favorite recipes?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1357
+    },
+    {
+      "id": "1047",
+      "query": "Are there scenes where female porn stars do things spontaneously that were not agreed upon initially?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1277
+    },
+    {
+      "id": "1115",
+      "query": "Why do I hate myself and how do I stop?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1421
+    },
+    {
+      "id": "1044",
+      "query": "Why is Indian media so corrupt and pro-left wing?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1525
+    },
+    {
+      "id": "661",
+      "query": "When using Gmail, how can I hide my name when sending an email?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1287
+    },
+    {
+      "id": "957",
+      "query": "We all have diff. mobile feature preferences & one key pref. is battery life. What are the factors in battery amp h one must consider when picking a phone?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1508
+    },
+    {
+      "id": "782",
+      "query": "What are some Central Government job opportunities for freshers in B Tech Computer Science in India?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1562
+    },
+    {
+      "id": "799",
+      "query": "Who are the popular politicians of Chhattisgarh?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.146
+    },
+    {
+      "id": "1037",
+      "query": "What is illogical thinking?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1404
+    },
+    {
+      "id": "936",
+      "query": "How to design a high frequency transformer?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1887
+    },
+    {
+      "id": "917",
+      "query": "What is the ignition temperature and melting temperature of a woven carbon fibre sheet?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1671
+    },
+    {
+      "id": "950",
+      "query": "Dwarf Tossing: Is throwing midgets covered in velcro against a wall really a thing?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1323
+    },
+    {
+      "id": "1078",
+      "query": "What books are recommended for a UX researcher to read?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1401
+    },
+    {
+      "id": "824",
+      "query": "What do they call \"\"French Toast\"\" in France?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1642
+    },
+    {
+      "id": "596",
+      "query": "What is the correct way to use punctuation?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1402
+    },
+    {
+      "id": "616",
+      "query": "How do I know what kind of RAM my laptop uses?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1282
+    },
+    {
+      "id": "835",
+      "query": "What are the effects of the divided government during the Johnson administration and did it have a positive or negative effect?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1389
+    },
+    {
+      "id": "765",
+      "query": "Is there any methodology to identify the cognition patterns?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1331
+    },
+    {
+      "id": "708",
+      "query": "Do most people who celebrate Christmas actually know that it is based on a Pagan festival?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1324
+    },
+    {
+      "id": "1084",
+      "query": "What is the commercial license cost of the Talend ETL tool?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1286
+    },
+    {
+      "id": "687",
+      "query": "Can we use Jio sim in 3G phone?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1684
+    },
+    {
+      "id": "846",
+      "query": "Which ecosystem in San Diego contains fewer endangered species?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.0863
+    },
+    {
+      "id": "1082",
+      "query": "How much doctors earn in AIIMS?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1258
+    },
+    {
+      "id": "668",
+      "query": "How do I fix error 14 on iTunes?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1326
+    },
+    {
+      "id": "1124",
+      "query": "Which is a suitable solar panel installation provider near Sedona, Arizona AZ?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1478
+    },
+    {
+      "id": "770",
+      "query": "Does lines on palm really indicates that what is going to happening or achieving in your life?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1282
+    },
+    {
+      "id": "713",
+      "query": "Which is better for a BBA, Amity University or any college of GGSIPU?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 2.1298
+    },
+    {
+      "id": "968",
+      "query": "What's an email?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.128
+    },
+    {
+      "id": "1070",
+      "query": "What are the best aspects of living in Shunan, Yamaguchi, Japan as a young adult?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1299
+    },
+    {
+      "id": "906",
+      "query": "Why do Indian people hate Biharis so much when there are 29 states in India?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.142
+    },
+    {
+      "id": "925",
+      "query": "I plan to migrate to New Zealand. What are the best part time jobs in New Zealand?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1327
+    },
+    {
+      "id": "689",
+      "query": "Will the ban on 500 and 1000 rupee notes have considerable effects on the investments in India or on GDP?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1782
+    },
+    {
+      "id": "1022",
+      "query": "My best friend rejected me saying she wanted to finish college first. Few months later, she started dating someone in my batch. Why do I feel bad?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1455
+    },
+    {
+      "id": "837",
+      "query": "How do the holy scriptures of Hinduism compare and contrast to those of Italo-Roman paganism?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1295
+    },
+    {
+      "id": "680",
+      "query": "What is caricature?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1618
+    },
+    {
+      "id": "946",
+      "query": "What are some sentence examples using \"\"into\"\"?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1352
+    },
+    {
+      "id": "973",
+      "query": "How do I block or hide all Reviews from my Quora feed?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.581
+    },
+    {
+      "id": "818",
+      "query": "What is a bucket list of things We should do ?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1266
+    },
+    {
+      "id": "986",
+      "query": "Where do kung fu originate?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1392
+    },
+    {
+      "id": "861",
+      "query": "Is 1 + 1 = 2 true in every possible universe?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 0.8611
+    },
+    {
+      "id": "808",
+      "query": "What is the bad effect of honey with bad hot water?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1228
+    },
+    {
+      "id": "969",
+      "query": "What is the temperament of a Lab/Pitbull mix?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1243
+    },
+    {
+      "id": "974",
+      "query": "Can WhatsApp be hacked?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1552
+    },
+    {
+      "id": "1027",
+      "query": "Is it possible for psychopaths to do good?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.3454
+    },
+    {
+      "id": "792",
+      "query": "WHAT'S THE POINT OF ASKING WHEN NO ONE BOTHERS TO READ ANYTHING?QUORA IS SUPPOSED TO BE FOR EXPERTISE AND NOT TO BOOST YOUR OWN BLOODY EGOS!",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1256
+    },
+    {
+      "id": "781",
+      "query": "Should the UK abolish the monarchy?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1463
+    },
+    {
+      "id": "1043",
+      "query": "What should you know about and what perks should you ask for that you don't know about when negotiating for a VP level job as a white collar employee?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1465
+    },
+    {
+      "id": "1095",
+      "query": "Was Hazrat Ali (r.a.) the only human being ever born in Holy Kaba in Mecca?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1319
+    },
+    {
+      "id": "994",
+      "query": "Why nowadays are mobile applications being promoted or advertised to download, more than visiting the websites, through discounts and other lucrative offers? What is the catch?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 3.2324
+    },
+    {
+      "id": "881",
+      "query": "When will .app domains be available for purchase?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1237
+    },
+    {
+      "id": "740",
+      "query": "How long does it take to learn how to make a proper website from scratch?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1222
+    },
+    {
+      "id": "707",
+      "query": "Where can I get online PDF or EPUB versions of books?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1481
+    },
+    {
+      "id": "718",
+      "query": "What is the future of finance?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1899
+    },
+    {
+      "id": "896",
+      "query": "What do 3 months old pigeon eat?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1423
+    },
+    {
+      "id": "1030",
+      "query": "What are the steps to find Laplace inverse of 1/s(s+3) (s+4)?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1496
+    },
+    {
+      "id": "1079",
+      "query": "How did Malaysia become a developed country besides having oil?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1878
+    },
+    {
+      "id": "724",
+      "query": "I feel sad for that my boyfriend doesn't talk to me and it is difficult for me to play with his friends. What should I do?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.8567
+    },
+    {
+      "id": "743",
+      "query": "Why Ayurveda is deprived of science?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1602
+    },
+    {
+      "id": "964",
+      "query": "What can I do to stop worrying?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.126
+    },
+    {
+      "id": "756",
+      "query": "Odisha, India: What are some things that only odia people do?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1315
+    },
+    {
+      "id": "865",
+      "query": "What's the easiest way to make money online?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1494
+    },
+    {
+      "id": "793",
+      "query": "Why on earth would a man cheat on his very hot and loyal wife?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.129
+    },
+    {
+      "id": "641",
+      "query": "How do I provide my service in cyber security as a freelancer?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1335
+    },
+    {
+      "id": "993",
+      "query": "How can I not get frustrated when solving a difficult problem?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1278
+    },
+    {
+      "id": "583",
+      "query": "Is there any best Th 7 anti every thing base in clash of clans?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1587
+    },
+    {
+      "id": "970",
+      "query": "India: Why is Bihar a backward state?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.151
+    },
+    {
+      "id": "665",
+      "query": "Did anyone else cry during multiple parts of Fullmetal Alchemist?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1317
+    },
+    {
+      "id": "1138",
+      "query": "What are the top business trends for 2012?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.131
+    },
+    {
+      "id": "762",
+      "query": "What is the number of online banking accounts in India? What's the growth rate here?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1312
+    },
+    {
+      "id": "860",
+      "query": "What does \"\"game, set, match\"\" mean?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.2512
+    },
+    {
+      "id": "1110",
+      "query": "What is the Scope for PhD in Biotechnology in India?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1405
+    },
+    {
+      "id": "836",
+      "query": "What is the best payment gateway for WooCommerce / WordPress?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1441
+    },
+    {
+      "id": "1113",
+      "query": "Who is human?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1282
+    },
+    {
+      "id": "598",
+      "query": "Who are some famous figures of mixed Korean, Japanese, and/or Chinese descent?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1337
+    },
+    {
+      "id": "985",
+      "query": "Is Dylann Roof out on bail?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1667
+    },
+    {
+      "id": "659",
+      "query": "Hi guys, my scores was R 63 W 63 L 64 S 90. Also I got 90 in vocab, grammar and spelling, how can I improve my skills to get 65?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1563
+    },
+    {
+      "id": "795",
+      "query": "Lionel Messi or Cristiano Ronaldo, who's your favorite and why?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1529
+    },
+    {
+      "id": "1056",
+      "query": "I don't understand why people get rich around me. I still earn 2k a month. Don't I work hard or is it just bad luck?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.7458
+    },
+    {
+      "id": "1036",
+      "query": "Would a Dutch person learn something in American high school?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.4284
+    },
+    {
+      "id": "705",
+      "query": "Is logic a language?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1315
+    },
+    {
+      "id": "1041",
+      "query": "Will whey protein shakes help you lose weight or make you gain weight?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.133
+    },
+    {
+      "id": "632",
+      "query": "What are the social media interview questions that the interviewer asks?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1689
+    },
+    {
+      "id": "775",
+      "query": "Financial sectors drawbacks?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1575
+    },
+    {
+      "id": "657",
+      "query": "What lame things do programmers often argue about?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1866
+    },
+    {
+      "id": "733",
+      "query": "What is the general and advanced perks a army?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1954
+    },
+    {
+      "id": "977",
+      "query": "Interest for home loans have gone down for many banks. Is it a good time to go for a loan?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.19
+    },
+    {
+      "id": "1129",
+      "query": "What is a vector?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1903
+    },
+    {
+      "id": "721",
+      "query": "How many months will it take to get black belt in martial arts?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1894
+    },
+    {
+      "id": "907",
+      "query": "What are some good birthday gift ideas for my boyfriend?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1955
+    },
+    {
+      "id": "902",
+      "query": "What is the password to open an e-Aadhaar card?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1917
+    },
+    {
+      "id": "1060",
+      "query": "What's it like to not be depressed?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1836
+    },
+    {
+      "id": "1006",
+      "query": "How do the tourist attractions on the Scandinavian Highlands compare to attractions in Switzerland?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1515
+    },
+    {
+      "id": "967",
+      "query": "What is the best civilization in Age of Empires III?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1866
+    },
+    {
+      "id": "942",
+      "query": "What are some good birthday gift ideas for a mom?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1947
+    },
+    {
+      "id": "751",
+      "query": "Do you buy survival portable water filter?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1888
+    },
+    {
+      "id": "838",
+      "query": "Is the right to police to pull us in chowky if we ague with him?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1781
+    },
+    {
+      "id": "1042",
+      "query": "Why is the Hindu avatar Krishna so popular?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1789
+    },
+    {
+      "id": "634",
+      "query": "Why aren't flight attendants pretty anymore?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1283
+    },
+    {
+      "id": "776",
+      "query": "What do Silicon Valley company CEOs do on the weekends?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1491
+    },
+    {
+      "id": "1012",
+      "query": "Why does US Airways flight 1549 get so much attention when ALM Flight 980 made a successful water landing in the open ocean?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.183
+    },
+    {
+      "id": "1002",
+      "query": "What are some great Android apps for kids aged 4-8?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1391
+    },
+    {
+      "id": "814",
+      "query": "A coin that comes up heads with probability p is continually flipped until the pattern T T H appears. Let X denote the number of flips needed until the pattern is observed.  What is the expected value of X  i.e. E [X]?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1894
+    },
+    {
+      "id": "614",
+      "query": "Donald Trump: I think Trump is clinically a narcissist. Do any psychologists agree or have other diagnoses?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1393
+    },
+    {
+      "id": "737",
+      "query": "Could the Sinai Air Strikes of June 5 1967 be avoided?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1789
+    },
+    {
+      "id": "982",
+      "query": "How come no countries helped Tibet when China invaded?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1513
+    },
+    {
+      "id": "843",
+      "query": "Search not working properly in my iOS 9.1 device. Anyone know how to fix?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1448
+    },
+    {
+      "id": "1075",
+      "query": "What is a good video game?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 0.8354
+    },
+    {
+      "id": "637",
+      "query": "What is paper made out of?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1381
+    },
+    {
+      "id": "684",
+      "query": "Who are the Persians?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.3937
+    },
+    {
+      "id": "891",
+      "query": "I am a recent Electronics Engineering graduate. What are the technical concepts that I need to master before applying for a job?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 4.2751
+    },
+    {
+      "id": "649",
+      "query": "What does \u5475\u5475 mean?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 0.7408
+    },
+    {
+      "id": "801",
+      "query": "Which is the best Technical Analysis Software?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1257
+    },
+    {
+      "id": "1133",
+      "query": "What is a CSA?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1298
+    },
+    {
+      "id": "1045",
+      "query": "Do the Jewish people have a claim of ownership to the pyramids in Egypt? Was it really slave labor or just a place where there were jobs? If it was slave labor... could they have a cassius belli?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1457
+    },
+    {
+      "id": "1151",
+      "query": "Is IIIT a better option than NITs?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 3.5071
+    },
+    {
+      "id": "965",
+      "query": "What are the best career choices for someone who likes reading, making people happy, and not just sitting in front of a computer the whole day?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1733
+    },
+    {
+      "id": "1153",
+      "query": "How is weight on the moon calculated?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1831
+    },
+    {
+      "id": "617",
+      "query": "Which DSLR is better, Nikon D5500 or Canon EOS 60D?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1353
+    },
+    {
+      "id": "605",
+      "query": "How do I test if a device requires 110V or 220V if it is not written on the plug?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1483
+    },
+    {
+      "id": "702",
+      "query": "What thing you never did do you regret the most?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 0.7789
+    },
+    {
+      "id": "1003",
+      "query": "Who has the largest fan following?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1317
+    },
+    {
+      "id": "832",
+      "query": "Can one register more than one state for Cadaver liver transplant? How good is Kokilaben for the same and estimate wait period for A+ (Cadaveric)?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.5471
+    },
+    {
+      "id": "938",
+      "query": "How do I publish a research paper on any topic in a subject pertaining to civil engineering?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1299
+    },
+    {
+      "id": "735",
+      "query": "What is the best topic for speech to be delivered in class?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1307
+    },
+    {
+      "id": "825",
+      "query": "How can I major both artificial intelligence and data science?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1436
+    },
+    {
+      "id": "769",
+      "query": "Where can I find a 100% working 3DS Emulator and Pok\u00e9mon X and Y ROMS compatible with It for my Android Phone?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1286
+    },
+    {
+      "id": "817",
+      "query": "Why do we need healthcare reform and what are the top elements of healthcare that need reform in US?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1483
+    },
+    {
+      "id": "853",
+      "query": "Where can I download Dr. Najeeb lectures for free?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1435
+    },
+    {
+      "id": "1111",
+      "query": "Should I buy a GoPro from AliExpress?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1393
+    },
+    {
+      "id": "1018",
+      "query": "Where can I get the book \"\"for the love of physics\"\" by Walter Lewin retired professor of MIT?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1327
+    },
+    {
+      "id": "1053",
+      "query": "How much time and money required to design and develop a website that should have all the features and functionalities like foxpush.com?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1484
+    },
+    {
+      "id": "732",
+      "query": "How much does Twitter pay a new grad software engineer?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1311
+    },
+    {
+      "id": "821",
+      "query": "How might have Bill Clinton and Hillary Rodham each turned out if they hadn't met at Yale Law School?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.6577
+    },
+    {
+      "id": "654",
+      "query": "What is the significance of the Taos Indian Revolt?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1288
+    },
+    {
+      "id": "864",
+      "query": "Where can I dump or recycle e-waste in Pune?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1555
+    },
+    {
+      "id": "1059",
+      "query": "How can I install a real Linux distro (not a virtual one) on a MacBook Pro?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.129
+    },
+    {
+      "id": "1096",
+      "query": "How do you publish a book on Kindle?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1879
+    },
+    {
+      "id": "1083",
+      "query": "Is raw material a direct material or factory overhead?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1413
+    },
+    {
+      "id": "1068",
+      "query": "Has Webpack replaced Browserify?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1914
+    },
+    {
+      "id": "728",
+      "query": "If I earn $5000 per month with accommodation and transport in Singapore, is that enough to live for couple?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.186
+    },
+    {
+      "id": "739",
+      "query": "How do I Connect Or Laptop To An Old CRT TV And Use It As A Screen? The CRT TV Has NO HDMI OR USB PORT? My Laptop is Sony Vaio VGN -N320E.",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 4.2044
+    },
+    {
+      "id": "991",
+      "query": "What individuals and events in history are a source of pride for Kazakhstan?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 2.7669
+    },
+    {
+      "id": "679",
+      "query": "Why do many people in Iran use carpets instead of tables? Did they choose such way because of shortage of wood?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1734
+    },
+    {
+      "id": "874",
+      "query": "What is the best math puzzle ever?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.3597
+    },
+    {
+      "id": "1064",
+      "query": "Is vacuum the best insulation?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1611
+    },
+    {
+      "id": "806",
+      "query": "How can a boy make a girl fall in love with him?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1594
+    },
+    {
+      "id": "892",
+      "query": "Which is better, the GRE or the GATE?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1481
+    },
+    {
+      "id": "671",
+      "query": "Where do I find DNS cache on Android?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1353
+    },
+    {
+      "id": "783",
+      "query": "Is hacking whatsapp illegal?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1952
+    },
+    {
+      "id": "910",
+      "query": "Why do I start crying when I am angry?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.2076
+    },
+    {
+      "id": "1021",
+      "query": "What is the best way to learn Microsoft Excel?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.2148
+    },
+    {
+      "id": "841",
+      "query": "What is Objectivism?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1271
+    },
+    {
+      "id": "930",
+      "query": "What is the annual revenue of Oscar?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1271
+    },
+    {
+      "id": "871",
+      "query": "How much of taxpayer\u2019s money is going to be spent on demonetization of Indian 500 and 1000 rupees notes?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.127
+    },
+    {
+      "id": "828",
+      "query": "What is the square root of 36?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1902
+    },
+    {
+      "id": "609",
+      "query": "Why are there two sexes?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1436
+    },
+    {
+      "id": "722",
+      "query": "\u0632\u0628 app: Can I install a Nomao naked camera for an Android?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1401
+    },
+    {
+      "id": "803",
+      "query": "I have a rooted Galaxy Note 3. Can I unroot it, update it over OTA and then root it again and do everything without having to wipe my cache and data or making a backup?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 2.8402
+    },
+    {
+      "id": "923",
+      "query": "What's the next big trend in web marketing?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1258
+    },
+    {
+      "id": "685",
+      "query": "How do I choose a good dining table set for my home?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1219
+    },
+    {
+      "id": "899",
+      "query": "Why do \u201cChristians\u201d and other theists think that atheists and agnostics have no morals?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1239
+    },
+    {
+      "id": "1152",
+      "query": "What are the best songs to sing?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 2.7017
+    },
+    {
+      "id": "850",
+      "query": "What does it feel like to ride in a self-driving car?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1952
+    },
+    {
+      "id": "652",
+      "query": "Where can I meet you?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1275
+    },
+    {
+      "id": "692",
+      "query": "My partner does everything right - reliable, caring, genuine. Why don't I feel like I'm falling in love?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1268
+    },
+    {
+      "id": "1159",
+      "query": "What is magha nakshatra?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1413
+    },
+    {
+      "id": "666",
+      "query": "What is the process in India to register a small company & how much it costs?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 3.0938
+    },
+    {
+      "id": "928",
+      "query": "If a Indian film producer make money out of indians does it contibute to national income?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1321
+    },
+    {
+      "id": "1127",
+      "query": "I have a good idea for a book, but I'm not very good at writing in English and I'm not excited to write it in my language either. What should I do?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 2.8432
+    },
+    {
+      "id": "1108",
+      "query": "What are the best shared office space in Bangalore Indiranagar?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1407
+    },
+    {
+      "id": "1136",
+      "query": "What should you do when crate training doesn't work?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1579
+    },
+    {
+      "id": "741",
+      "query": "How do I clean a brown leather chair?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1464
+    },
+    {
+      "id": "935",
+      "query": "Does the adding of sodium hydroxide to the acid solution make the pH higher or lower?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1364
+    },
+    {
+      "id": "941",
+      "query": "Which are the best websites to learn computer programming and web programming?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1948
+    },
+    {
+      "id": "959",
+      "query": "I want to start a new factory. I have factory space near Delhi. What are some good options to start a new venture in Delhi?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1661
+    },
+    {
+      "id": "1102",
+      "query": "What does it feel like to have a sprained ankle?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1275
+    },
+    {
+      "id": "872",
+      "query": "What's the best age of join gym?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1434
+    },
+    {
+      "id": "897",
+      "query": "Couldn't someone buy a huge number of Virgin America headphones and resell them for a profit?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1864
+    },
+    {
+      "id": "840",
+      "query": "What are some good online shopping sites for women clothing?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.2564
+    },
+    {
+      "id": "905",
+      "query": "Do you fart in the shower?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 0.7109
+    },
+    {
+      "id": "676",
+      "query": "How do I arrange the voices in a choir?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1461
+    },
+    {
+      "id": "914",
+      "query": "How do vendors price an electronic wallet product for service providers? What are the factors involved?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1539
+    },
+    {
+      "id": "686",
+      "query": "How do I create a Ymail account when the option has disappeared?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1346
+    },
+    {
+      "id": "584",
+      "query": "What is better, Coke or Pepsi? Why?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1613
+    },
+    {
+      "id": "1149",
+      "query": "I cannot live in the present. Even if I live in the present after some time I start thinking about the future and I face a lot of difficulties to come back to normal. I am not able to stay long in present how much ever I control. This is turning out to be a serious problem for me. What can I do?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1489
+    },
+    {
+      "id": "1007",
+      "query": "If the Game of Thrones houses were Hogwarts houses, which would be which?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 2.0261
+    },
+    {
+      "id": "858",
+      "query": "What is the best way to repair a water damaged laptop?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1772
+    },
+    {
+      "id": "742",
+      "query": "Is it possible to reset a lock to a new key I have?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1343
+    },
+    {
+      "id": "620",
+      "query": "How do I optimize my Tinder profile to get more right swipes?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1572
+    },
+    {
+      "id": "955",
+      "query": "Who was Jesus?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1417
+    },
+    {
+      "id": "1109",
+      "query": "How do I reset my Gmail password when I don't remember my recovery information?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.2079
+    },
+    {
+      "id": "688",
+      "query": "What has the AAP done for Kashmiri Pandits?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1504
+    },
+    {
+      "id": "763",
+      "query": "Does Uber cab started its service in Ranchi?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 0.6682
+    },
+    {
+      "id": "764",
+      "query": "Is it correct to say that business is the art of exploiting people and that this is basically what is taught in business schools?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1284
+    },
+    {
+      "id": "622",
+      "query": "What's the dumbest joke you've ever heard?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 0.5878
+    },
+    {
+      "id": "888",
+      "query": "How can I stop worrying about what other people think?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1906
+    },
+    {
+      "id": "1046",
+      "query": "How heavy is the human heart?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1417
+    },
+    {
+      "id": "1011",
+      "query": "What does mAh in a battery mean?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1428
+    },
+    {
+      "id": "631",
+      "query": "Is red mold on bread harmful?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1423
+    },
+    {
+      "id": "693",
+      "query": "Why is Facebook advertised?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.132
+    },
+    {
+      "id": "610",
+      "query": "I struggle with math and science and it makes me feel stupid. What can I do to get better?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1314
+    },
+    {
+      "id": "880",
+      "query": "Can you make a woman love you by being nice and helpful to her?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1335
+    },
+    {
+      "id": "644",
+      "query": "What are the properties of a good sandwich?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 3.0827
+    },
+    {
+      "id": "1077",
+      "query": "Would the South be better off being its own country instead of part of the US?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1463
+    },
+    {
+      "id": "587",
+      "query": "Finance: Which is the best way to learn about stocks?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1301
+    },
+    {
+      "id": "1099",
+      "query": "How is RSS (Rashtriya Swayamsevak Sangh) different from other organisations?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1308
+    },
+    {
+      "id": "675",
+      "query": "How can I sell the goat or sheep meat in restaurants?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 4.4913
+    },
+    {
+      "id": "915",
+      "query": "What is the weirdest joke you ever heard?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1443
+    },
+    {
+      "id": "984",
+      "query": "My passport police verification failed. Can I wait for 365 days and then re apply fresh again after that? Will I have problems because of the old one?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1281
+    },
+    {
+      "id": "615",
+      "query": "What is the mole fraction of solute in aqueous solution of 20 % NaOH?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 3.0208
+    },
+    {
+      "id": "646",
+      "query": "How do I make a profit in the stock market?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1315
+    },
+    {
+      "id": "1063",
+      "query": "What kind of factors are taken into account when compiling the 'People You May Know' list for users on Facebook?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.126
+    },
+    {
+      "id": "780",
+      "query": "What do you do when you are good at something but not good enough?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1272
+    },
+    {
+      "id": "933",
+      "query": "What is the difference between a thought and an observation?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1263
+    },
+    {
+      "id": "807",
+      "query": "What are some examples of the worst Bollywood movie poster designs?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1429
+    },
+    {
+      "id": "599",
+      "query": "Why do my friends re-friend me on Snapchat?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1576
+    },
+    {
+      "id": "1062",
+      "query": "Where / how do I catch a Nidoran in Pok\u00e9mon GO?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.128
+    },
+    {
+      "id": "1119",
+      "query": "What are some things new employees should know going into their first day at US Silica?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1271
+    },
+    {
+      "id": "1106",
+      "query": "Is it possible for a software developer to become a billionaire with only a B.Tech degree? If yes, which are the companies which offer such positions considering I am ready to learn any technical & business skills?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1304
+    },
+    {
+      "id": "748",
+      "query": "How many deaths was Fidel Castro responsible for?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1276
+    },
+    {
+      "id": "736",
+      "query": "Where can I find a promo code for Amazon shipping?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1273
+    },
+    {
+      "id": "594",
+      "query": "How can I lock drive partition for different users on Windows 10 on similar lines of locking My Documents?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1313
+    },
+    {
+      "id": "640",
+      "query": "What is the difference between Pervacid and Nexium?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.142
+    },
+    {
+      "id": "1148",
+      "query": "How to calculate steel for rcc slab?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 3.297
+    },
+    {
+      "id": "844",
+      "query": "How Joker is better than Batman and make more sense?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1736
+    },
+    {
+      "id": "744",
+      "query": "What applications need 3 GB RAM in mobile Android phone.What appliactions I can use freely with 2 GB RAM?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1823
+    },
+    {
+      "id": "669",
+      "query": "What is the difference between \"\"asphyxiate\"\" and \"\"smother\"\"?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1765
+    },
+    {
+      "id": "1097",
+      "query": "Does the Statue of Liberty have an elevator?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 0.7938
+    },
+    {
+      "id": "1032",
+      "query": "Can Italians still read and understand the ancient Roman Empire-era inscriptions?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1242
+    },
+    {
+      "id": "734",
+      "query": "What does it feel like to be an IELTS speaking test examiner?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1788
+    },
+    {
+      "id": "1020",
+      "query": "Is it possible that dinosaurs are still alive, but humans don't know?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1965
+    },
+    {
+      "id": "990",
+      "query": "Where does the water from the Great Lakes come from, and how does these lakes wildlife compare to Tirifjorden?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1529
+    },
+    {
+      "id": "1035",
+      "query": "What do I do when my pan card is withheld for not providing my AO code?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1595
+    },
+    {
+      "id": "856",
+      "query": "Why isn't there only one religion?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1471
+    },
+    {
+      "id": "798",
+      "query": "How should I talk to the girl I like?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1445
+    },
+    {
+      "id": "698",
+      "query": "Why do people like spicy food?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.173
+    },
+    {
+      "id": "717",
+      "query": "Where can I download the new 70-686 dumps?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.5006
+    },
+    {
+      "id": "800",
+      "query": "What are similarities between brazil and Portugal?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1317
+    },
+    {
+      "id": "992",
+      "query": "Do you hand wash your underwear everyday or put it in the laundry and wash it all together like once a week?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.14
+    },
+    {
+      "id": "932",
+      "query": "Will hillary be able to build up a same rapport with Mr. Modi as prez Mr.Obama did? Will it be a priority at all by her?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1298
+    },
+    {
+      "id": "768",
+      "query": "Why is Hillary Clinton so controversial?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1268
+    },
+    {
+      "id": "1094",
+      "query": "What were your childhood dreams?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1446
+    },
+    {
+      "id": "960",
+      "query": "Where do I catch a Pikachu in Pok\u00e9mon GO?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1879
+    },
+    {
+      "id": "759",
+      "query": "How can I use Facebook chat in a XP messenger?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1513
+    },
+    {
+      "id": "1081",
+      "query": "What are some of the more lesser known and unique locations throughout Germany to visit?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 4.3136
+    },
+    {
+      "id": "612",
+      "query": "What is the best comedy movie ever?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1547
+    },
+    {
+      "id": "673",
+      "query": "Will UNC win the NCAA championship in 2015?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1454
+    },
+    {
+      "id": "1117",
+      "query": "What is it like to earn a living through poker?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1325
+    },
+    {
+      "id": "691",
+      "query": "How does nightlife in Hong Kong compare to New York City?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 2.1214
+    },
+    {
+      "id": "971",
+      "query": "Why my iPhone pictures keep disappearing when 5 minutes pass after taking a picture?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1691
+    },
+    {
+      "id": "651",
+      "query": "What is the lingua franca of the Philippines?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1747
+    },
+    {
+      "id": "908",
+      "query": "How do you rate Flipkarts Big Billion Day Sale?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.1835
+    },
+    {
+      "id": "939",
+      "query": "What is your advice for high school students who want to join the army?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1283
+    },
+    {
+      "id": "866",
+      "query": "What is the difference between air and wind?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1227
+    },
+    {
+      "id": "940",
+      "query": "How would you target Facebook ads for a personal injury lawyer? Is it even possible?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.182
+    },
+    {
+      "id": "753",
+      "query": "Is ACCA valued in Australia?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 0.9922
+    },
+    {
+      "id": "757",
+      "query": "What is covalent bonding?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.2409
+    },
+    {
+      "id": "1131",
+      "query": "Do you think that Twenty One Pilots is great?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1299
+    },
+    {
+      "id": "997",
+      "query": "Do vacations help accelerate recovery after traumatic events?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.4031
+    },
+    {
+      "id": "913",
+      "query": "What are the importance of political theory?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1254
+    },
+    {
+      "id": "627",
+      "query": "What are the best ways to get rid of poverty?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.123
+    },
+    {
+      "id": "604",
+      "query": "How can I turn a casual relationship into a long term one?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 2.818
+    },
+    {
+      "id": "642",
+      "query": "How do I chat with a girl?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1893
+    },
+    {
+      "id": "953",
+      "query": "How do I become a data scientist as an MBA?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1493
+    },
+    {
+      "id": "1031",
+      "query": "What is the relation between the physical size of a electrical machine and speed of that machine?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1256
+    },
+    {
+      "id": "1104",
+      "query": "2016 October is all about?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 3.8404
+    },
+    {
+      "id": "720",
+      "query": "How can you tell if a girl is straight or a lesbian?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1279
+    },
+    {
+      "id": "963",
+      "query": "How do I make make my computer a wifi using router?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1244
+    },
+    {
+      "id": "1126",
+      "query": "Why hasn't Hollywood done a blockbuster movie of war stories in the Old Testament? Gods and kings and Noah are not war stories",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1262
+    },
+    {
+      "id": "590",
+      "query": "What are the advantages and disadvantages of mobile phones?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 2.7013
+    },
+    {
+      "id": "790",
+      "query": "What are some tricks to book cheap air tickets in India?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1529
+    },
+    {
+      "id": "777",
+      "query": "How do I root my Moto X 2nd gen?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1482
+    },
+    {
+      "id": "826",
+      "query": "What is the difference between MATLAB and programming C?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 2.0438
+    },
+    {
+      "id": "926",
+      "query": "What is the plural of man?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1244
+    },
+    {
+      "id": "730",
+      "query": "What is the largest meal you have ever eaten?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1761
+    },
+    {
+      "id": "582",
+      "query": "What can I do after graduation in mechanical engineering?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1607
+    },
+    {
+      "id": "904",
+      "query": "I am an Indian engineering undergrad and I like a girl who is a good friend of mine. My buddies tease us about our relationship. I want to know if she also likes me. What should I do? Should I propose to her or wait for the right time to come?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 3.1305
+    },
+    {
+      "id": "729",
+      "query": "How do I integrate Bulk SMS API in Magento platform?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 2.4506
+    },
+    {
+      "id": "1057",
+      "query": "How do you know that a girl is not interested in you at all?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1249
+    },
+    {
+      "id": "949",
+      "query": "What are the most pressing pain points corporations are feeling today? I need to create useful training based on these pains using comedy on any topic",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1292
+    },
+    {
+      "id": "934",
+      "query": "What does \"\"Well said\"\" mean?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 0.7709
+    },
+    {
+      "id": "893",
+      "query": "Do women masturbate a lot?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1236
+    },
+    {
+      "id": "802",
+      "query": "Is Hitler the most famous German?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1308
+    },
+    {
+      "id": "1029",
+      "query": "What does aurora borealis mean?",
+      "hit": true,
+      "status": "positive cache hit",
+      "label": 0,
+      "latency_sec": 0.1417
+    },
+    {
+      "id": "1009",
+      "query": "What do you think of Friends - Season 4, Episode 20?",
+      "hit": false,
+      "status": "cache miss",
+      "label": 0,
+      "latency_sec": 1.3444
+    },
+    {
+      "id": "664",
+      "query": "What was the most difficult situation you had to talk yourself out of?",
+      "hit": false,
+      "status": "negative cache hit",
+      "label": 0,
+      "latency_sec": 0.1469
+    }
+  ]
+}

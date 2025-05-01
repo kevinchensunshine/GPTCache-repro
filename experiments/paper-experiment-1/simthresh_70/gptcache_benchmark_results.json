@@ -1,0 +1,7016 @@
+{
+  "n_queries": 1000,
+  "cache_hit_positive": 535,
+  "cache_hit_negative": 465,
+  "fail_count": 0,
+  "avg_latency_sec": 0.1824,
+  "avg_embedding_time_sec": 0.137,
+  "avg_search_time_sec": 0.0086,
+  "similarity_threshold": 0.7,
+  "cache_size": 100000,
+  "max_points": 0,
+  "n_test_samples": 1000,
+  "sample_frac_positive": 1.0,
+  "results": [
+    {
+      "id": "20559",
+      "query": "Why are people so obsessed with celebrities?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.4076
+    },
+    {
+      "id": "21057",
+      "query": "What are your thoughts about proposals for reservation in the private sector?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2048
+    },
+    {
+      "id": "10291",
+      "query": "Which is the best college in India for BBA?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1831
+    },
+    {
+      "id": "7412",
+      "query": "What are the advantages and disadvantages of living in the city?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.233
+    },
+    {
+      "id": "19649",
+      "query": "What are some easy ways to make done extra money online?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1732
+    },
+    {
+      "id": "16537",
+      "query": "Could this universe be inside a black hole?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1789
+    },
+    {
+      "id": "17073",
+      "query": "Did Mukesh Ambani knew about the currency change?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.22
+    },
+    {
+      "id": "7787",
+      "query": "Can I get Tableau projects online for wroking from home?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1739
+    },
+    {
+      "id": "10771",
+      "query": "What are your life lessons from 2016?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.179
+    },
+    {
+      "id": "29632",
+      "query": "Which are worst movies ever made in Bollywood?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1827
+    },
+    {
+      "id": "630",
+      "query": "What is it like to have a miscarriage?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2184
+    },
+    {
+      "id": "8084",
+      "query": "What is the revenue model of Reliance Jio?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1803
+    },
+    {
+      "id": "18043",
+      "query": "What is the iq of the average person?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2187
+    },
+    {
+      "id": "8703",
+      "query": "How do I know a patent lawyer won't steal my idea? And what steps can I take to protect myself?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1838
+    },
+    {
+      "id": "16876",
+      "query": "What can you do to learn Spanish easily?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1791
+    },
+    {
+      "id": "28145",
+      "query": "What was the worse piece of advice you have ever received from someone?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1779
+    },
+    {
+      "id": "25766",
+      "query": "What is the funniest joke you have read or herd? Com on share with others also",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1769
+    },
+    {
+      "id": "9616",
+      "query": "Why dream is coming while sleeping?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1824
+    },
+    {
+      "id": "8209",
+      "query": "Is there an objective way to measure nationalism by country?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1767
+    },
+    {
+      "id": "10147",
+      "query": "How do I get a project internship from an IIT?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1682
+    },
+    {
+      "id": "15267",
+      "query": "At what age did you realize that you are gay and what thoughts did you have about it? Was it hard to accept yourself as gay?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1719
+    },
+    {
+      "id": "17395",
+      "query": "How do learn Telepathy?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.22
+    },
+    {
+      "id": "14248",
+      "query": "Why don't Antarctic stations, or even Antarctica itself, appear on maps?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1717
+    },
+    {
+      "id": "24912",
+      "query": "How safe is VLC player?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2181
+    },
+    {
+      "id": "26772",
+      "query": "How can I check if a certain image on the net is copyrighted?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1741
+    },
+    {
+      "id": "16666",
+      "query": "How did you feel when you had sex for the first time?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2204
+    },
+    {
+      "id": "28298",
+      "query": "Who should I vote for in the 2016 US presidential election?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2002
+    },
+    {
+      "id": "12233",
+      "query": "How do I become a porn star?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.178
+    },
+    {
+      "id": "5878",
+      "query": "What is the number when divided by 7,8,9 the remainder must be 1,2,3 respectively?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1754
+    },
+    {
+      "id": "4960",
+      "query": "When does a guitarist need to use a capo d\u2019astro?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1783
+    },
+    {
+      "id": "14564",
+      "query": "Will there be a third World War?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1885
+    },
+    {
+      "id": "10485",
+      "query": "How does CO2 in the atmosphere contribute to global warming?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1675
+    },
+    {
+      "id": "14920",
+      "query": "What's the most awkward/embarrassing situation you've ever faced in your life?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2147
+    },
+    {
+      "id": "17979",
+      "query": "What is the Sahara, and how do the average temperatures there compare to the ones in the Gobi Desert?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2197
+    },
+    {
+      "id": "706",
+      "query": "What are valid rational reasons for voting for Donald Trump?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2265
+    },
+    {
+      "id": "22379",
+      "query": "What is the significance of GDP?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2051
+    },
+    {
+      "id": "23647",
+      "query": "Should all social media comments be protected by free speech and why?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.183
+    },
+    {
+      "id": "9582",
+      "query": "How can you fix a toilet that does not flush all the way?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2143
+    },
+    {
+      "id": "9730",
+      "query": "What is the difference between molecular mass and molar mass? What are their similarities?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2155
+    },
+    {
+      "id": "8010",
+      "query": "How can I promote my website for free?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1805
+    },
+    {
+      "id": "2174",
+      "query": "What is the best way to predict when the new MacBook Pro will be released?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1713
+    },
+    {
+      "id": "13392",
+      "query": "What are some ways to start a business?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2434
+    },
+    {
+      "id": "23459",
+      "query": "Why can't you laminate social security cards?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2168
+    },
+    {
+      "id": "956",
+      "query": "What is the Sahara, and how do the average temperatures there compare to the ones in the Gobi Desert?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2151
+    },
+    {
+      "id": "9513",
+      "query": "How can I get into RSI?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1911
+    },
+    {
+      "id": "19169",
+      "query": "What are the most productive ways to spend time on the Internet?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2201
+    },
+    {
+      "id": "24123",
+      "query": "How can I earn by applying multiple ads on YouTube channel?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2122
+    },
+    {
+      "id": "34",
+      "query": "How can I get a story I wrote published?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1766
+    },
+    {
+      "id": "581",
+      "query": "What are the best new Car technology that most people don't know about?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1752
+    },
+    {
+      "id": "17405",
+      "query": "Who is Bloody Mary based on? What is the true story behind that lady?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1791
+    },
+    {
+      "id": "1140",
+      "query": "What is the salary of iit professors?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.176
+    },
+    {
+      "id": "19962",
+      "query": "How do I get rid of belly fat and thigh fat?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1742
+    },
+    {
+      "id": "15065",
+      "query": "What programming languages should learn in college?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1908
+    },
+    {
+      "id": "18824",
+      "query": "What's your favorite song right now?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1716
+    },
+    {
+      "id": "26574",
+      "query": "Is it necessary to go for coaching for GATE preparation?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2165
+    },
+    {
+      "id": "11593",
+      "query": "How can I start making money from blogging?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2215
+    },
+    {
+      "id": "12797",
+      "query": "What are some good blogging topics?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2123
+    },
+    {
+      "id": "8163",
+      "query": "How do I improve my presence of mind/ spontaneous thinking for simple situations?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1668
+    },
+    {
+      "id": "1823",
+      "query": "Is time traval possible in future?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1725
+    },
+    {
+      "id": "18465",
+      "query": "Does Viagra work?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1721
+    },
+    {
+      "id": "26023",
+      "query": "How have you helped to create positive change in your community, country or organisation?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1705
+    },
+    {
+      "id": "29867",
+      "query": "How do I maintain body structure?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2183
+    },
+    {
+      "id": "10098",
+      "query": "What will India's GDP by 2020?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.172
+    },
+    {
+      "id": "7913",
+      "query": "Is it possible to get high off weed accidentally?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1739
+    },
+    {
+      "id": "25032",
+      "query": "How can I keep my neighbors dogs off my grass?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2163
+    },
+    {
+      "id": "10545",
+      "query": "Continues glucose monitoring test, is it worth doing?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1836
+    },
+    {
+      "id": "4480",
+      "query": "What are some tips/tricks with playing Pok\u00e9mon GO?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2295
+    },
+    {
+      "id": "8402",
+      "query": "What are the functions of preprocessor directives in C++?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2101
+    },
+    {
+      "id": "3152",
+      "query": "What is the best brand of puppy food for bulldogs?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1728
+    },
+    {
+      "id": "7017",
+      "query": "What is objective value of love?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2121
+    },
+    {
+      "id": "9064",
+      "query": "Should people over 93 not be allowed to vote?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1733
+    },
+    {
+      "id": "16464",
+      "query": "Which is the longest bridge in India?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2213
+    },
+    {
+      "id": "16402",
+      "query": "Which are the best earphones under 2000INR or 35USD?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2188
+    },
+    {
+      "id": "21861",
+      "query": "If a black hole grows larger as it absorbs more of the universe, can it absorb the entire universe given enough time?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2152
+    },
+    {
+      "id": "28682",
+      "query": "How do I calculate the energy of a photon?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1773
+    },
+    {
+      "id": "20082",
+      "query": "What is the possibility of time travel becoming a reality?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1716
+    },
+    {
+      "id": "17276",
+      "query": "What programming languages does Steve Jobs know?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1769
+    },
+    {
+      "id": "6114",
+      "query": "What are the differences between atom, nuclear and hydrogen bombs?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1774
+    },
+    {
+      "id": "16215",
+      "query": "What is the best way to get experience in cyber security?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1816
+    },
+    {
+      "id": "26785",
+      "query": "What's the best investment?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1794
+    },
+    {
+      "id": "22193",
+      "query": "Is time travel possible then after how long time?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1748
+    },
+    {
+      "id": "9106",
+      "query": "What would happen if Pakistan declared war on India today?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.189
+    },
+    {
+      "id": "20456",
+      "query": "Why cats scared by cucumbers?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1769
+    },
+    {
+      "id": "17387",
+      "query": "How can I know my girl is loving me?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1747
+    },
+    {
+      "id": "29590",
+      "query": "Could the attack on Pearl Harbor have been prevented? What actions could the US have taken ahead of time to deter/dissuade Japan from attacking?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1636
+    },
+    {
+      "id": "8262",
+      "query": "Is sociology and social science the same subject?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1809
+    },
+    {
+      "id": "29158",
+      "query": "What are some examples of the Ancient China social structure?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.224
+    },
+    {
+      "id": "27754",
+      "query": "When will the housing bubble in the Bay Area burst?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1809
+    },
+    {
+      "id": "29069",
+      "query": "How can I motivate myself to study programming?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2155
+    },
+    {
+      "id": "4751",
+      "query": "Who was a better guitarist: Eric Clapton or Jimi Hendrix?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2193
+    },
+    {
+      "id": "25968",
+      "query": "What is best seo services provider company in Delhi?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2144
+    },
+    {
+      "id": "28765",
+      "query": "Why is Saltwater Taffy candy imported in Mexico?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2183
+    },
+    {
+      "id": "18938",
+      "query": "What's a good stock market app?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2183
+    },
+    {
+      "id": "957",
+      "query": "Which Newton laws are applied on projectile motion?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2164
+    },
+    {
+      "id": "28770",
+      "query": "How is the dependency theory different from modernization theory?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.172
+    },
+    {
+      "id": "18166",
+      "query": "When will the NEET 2017 application form be released?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.231
+    },
+    {
+      "id": "5941",
+      "query": "What is the difference between suite and tuxedo?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1831
+    },
+    {
+      "id": "10064",
+      "query": "What would life be like if humans didn't need to sleep?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1728
+    },
+    {
+      "id": "3404",
+      "query": "Where can I get affordable coworking space in Bangalore?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1814
+    },
+    {
+      "id": "10392",
+      "query": "How do I know if I smell bad?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2474
+    },
+    {
+      "id": "3938",
+      "query": "What is the most important unresolved problem in machine learning?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2259
+    },
+    {
+      "id": "6669",
+      "query": "Do forex robots work?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1914
+    },
+    {
+      "id": "9171",
+      "query": "How can a new writer get published?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1743
+    },
+    {
+      "id": "23724",
+      "query": "Are there collisions where kinetic energy is not conserved?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.23
+    },
+    {
+      "id": "18297",
+      "query": "Which is the best laptop for around 35k?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2118
+    },
+    {
+      "id": "8856",
+      "query": "Is universe expanding or not?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1832
+    },
+    {
+      "id": "20172",
+      "query": "What are some of the applications of Machine Learning in Robotics/Computer Vision.?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1732
+    },
+    {
+      "id": "98",
+      "query": "What was the strangest food you have ever eaten?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2403
+    },
+    {
+      "id": "2627",
+      "query": "How much money have you earned from YouTube?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2268
+    },
+    {
+      "id": "8419",
+      "query": "What is secularism?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1816
+    },
+    {
+      "id": "27543",
+      "query": "What would happen if 9/11 never happened?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1711
+    },
+    {
+      "id": "1652",
+      "query": "Should I go for iPhone 7 or iPhone 7 plus?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1821
+    },
+    {
+      "id": "24704",
+      "query": "Why does my question need to be improved and how to improve it?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1783
+    },
+    {
+      "id": "10553",
+      "query": "Is North America considered \"\"the west\"\"?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2157
+    },
+    {
+      "id": "7942",
+      "query": "How cold can the Gobi Desert get, and how do its average temperatures compare to the ones in the Patagonian Desert?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1742
+    },
+    {
+      "id": "10822",
+      "query": "What posters do you have in your room?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1723
+    },
+    {
+      "id": "21525",
+      "query": "Would banning notes of denominations 500 and 1000 help to curb the black money in system?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2069
+    },
+    {
+      "id": "6358",
+      "query": "Do you get pregnant on your fertile days or ovulation?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.173
+    },
+    {
+      "id": "12781",
+      "query": "What did the four ancient River Valley civilizations have in common? How did they differ?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2157
+    },
+    {
+      "id": "11070",
+      "query": "What is the best decision you have ever made?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1812
+    },
+    {
+      "id": "11786",
+      "query": "Which company is better for Freshers, Infosys or IBM?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1918
+    },
+    {
+      "id": "28973",
+      "query": "What are some ways to combat a writer's block?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2341
+    },
+    {
+      "id": "22117",
+      "query": "What are some of the best Hindi short films on youtube?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1795
+    },
+    {
+      "id": "4778",
+      "query": "What is the most credible evidence of alien life forms or UFOs ever photographed or filmed?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.22
+    },
+    {
+      "id": "16680",
+      "query": "Which is Better, the XBOX One or PlayStation 4?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2144
+    },
+    {
+      "id": "14146",
+      "query": "What are the safety precautions on handling shotguns proposed by the NRA in Mississippi?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1928
+    },
+    {
+      "id": "18599",
+      "query": "What are some ways to can start off an essay?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1787
+    },
+    {
+      "id": "15528",
+      "query": "How is aerospace engineering in SRM?  How are the job placements?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.22
+    },
+    {
+      "id": "10518",
+      "query": "What do you think about Arnab Goswami's show?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1776
+    },
+    {
+      "id": "5774",
+      "query": "Will Akhilesh Yadav win UP Election 2017?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2223
+    },
+    {
+      "id": "16336",
+      "query": "Which Indian actress has the best curves?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.214
+    },
+    {
+      "id": "5695",
+      "query": "Why are deadlifts called that?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1759
+    },
+    {
+      "id": "6645",
+      "query": "How do I change my password on Yahoo mail?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2202
+    },
+    {
+      "id": "6727",
+      "query": "What are some good institutes for technical writing in Bangalore?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1745
+    },
+    {
+      "id": "25834",
+      "query": "How do AMD and Intel laptops differ?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1834
+    },
+    {
+      "id": "26648",
+      "query": "How rampant is corruption in India?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2119
+    },
+    {
+      "id": "2195",
+      "query": "Who is the upcoming best competitive programmer from Bangladesh?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2166
+    },
+    {
+      "id": "7421",
+      "query": "How can I ask the right questions?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2144
+    },
+    {
+      "id": "19285",
+      "query": "Are there lot of Mexican women that are attracted to East Asian men (Korean, Japanese, Chinese)?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2144
+    },
+    {
+      "id": "1821",
+      "query": "How do I log into my Comcast router?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2325
+    },
+    {
+      "id": "10731",
+      "query": "What would happen if the Earth went into a zero gravity state for 10 seconds?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1746
+    },
+    {
+      "id": "24026",
+      "query": "Where do I find the money to start an independent movie theater?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1737
+    },
+    {
+      "id": "18507",
+      "query": "Is time travel possible then after how long time?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1761
+    },
+    {
+      "id": "27734",
+      "query": "How should I increase my height?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.214
+    },
+    {
+      "id": "19933",
+      "query": "What\u2019s the most embarrassing moment of your life so far?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1716
+    },
+    {
+      "id": "28378",
+      "query": "Who are the best mystery fiction writers?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2146
+    },
+    {
+      "id": "21965",
+      "query": "What is the easiest way to earn money using internet?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.221
+    },
+    {
+      "id": "29397",
+      "query": "What is it like to have a huge penis?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2267
+    },
+    {
+      "id": "21285",
+      "query": "Hackers: How do email accounts get hacked in layman's terms?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2245
+    },
+    {
+      "id": "3871",
+      "query": "Is walking the best excercise?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2241
+    },
+    {
+      "id": "9773",
+      "query": "How did trump win the presidential election?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2117
+    },
+    {
+      "id": "548",
+      "query": "What is the best embarrassing moment of your life?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1775
+    },
+    {
+      "id": "5733",
+      "query": "Why do people ask Quora questions which can be answered easily by Google?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2119
+    },
+    {
+      "id": "21778",
+      "query": "What are Supplementary services?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1894
+    },
+    {
+      "id": "28724",
+      "query": "How is schizophrenia differentiated from psychosis?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2211
+    },
+    {
+      "id": "3436",
+      "query": "What makes you proud of your country?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2113
+    },
+    {
+      "id": "21790",
+      "query": "How do I hack a password?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2227
+    },
+    {
+      "id": "22731",
+      "query": "Can two people have the same fingerprints?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2241
+    },
+    {
+      "id": "11777",
+      "query": "Should customer support be part of customer success?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1782
+    },
+    {
+      "id": "7119",
+      "query": "How many users does Turo have today?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2212
+    },
+    {
+      "id": "19243",
+      "query": "What are some tips and tricks an Android user should know?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1782
+    },
+    {
+      "id": "22745",
+      "query": "Why is the green colour associated with Islam?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1715
+    },
+    {
+      "id": "18339",
+      "query": "How do I get over a major failure?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1949
+    },
+    {
+      "id": "17141",
+      "query": "Why there are programmers use std:: instead of using namespace std?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1775
+    },
+    {
+      "id": "22299",
+      "query": "Which is the best institute for preparing for GMAT in Delhi/NCR?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1759
+    },
+    {
+      "id": "24297",
+      "query": "Why is Saltwater taffy candy imported in Germany?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1949
+    },
+    {
+      "id": "23010",
+      "query": "What is the Sahara, and how do the average temperatures there compare to the ones in the Colorado Plateau?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2095
+    },
+    {
+      "id": "19260",
+      "query": "Why is success considered to be the best revenge?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.238
+    },
+    {
+      "id": "11945",
+      "query": "How many people have ever been born?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1719
+    },
+    {
+      "id": "2236",
+      "query": "How can I increase my height after 18 years of age?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1687
+    },
+    {
+      "id": "6039",
+      "query": "What are your thoughts on the new 2016 MacBook Pro?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1547
+    },
+    {
+      "id": "11139",
+      "query": "What is the truth behind withdrawal of 1000 and 500 rs notes in India?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2162
+    },
+    {
+      "id": "10301",
+      "query": "Can I create a Wikipedia page about myself, blowing my own trumpet?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1947
+    },
+    {
+      "id": "3487",
+      "query": "Which is the best laptop below rs60000?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1485
+    },
+    {
+      "id": "17491",
+      "query": "Did Prophet Muhammad actually marry a six year old and consummate with her at nine?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1987
+    },
+    {
+      "id": "10209",
+      "query": "What exactly is computer architecture?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1529
+    },
+    {
+      "id": "27540",
+      "query": "What is the world's best movie?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1511
+    },
+    {
+      "id": "9533",
+      "query": "Who is Brian Bi?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1486
+    },
+    {
+      "id": "27481",
+      "query": "How can we improve our English language skills?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.151
+    },
+    {
+      "id": "3480",
+      "query": "Where can I get bikes to rent in Mumbai?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1673
+    },
+    {
+      "id": "11011",
+      "query": "Do white girls like brown boys?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1787
+    },
+    {
+      "id": "26944",
+      "query": "How can I earn money part time online?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1794
+    },
+    {
+      "id": "11328",
+      "query": "Why do people change their gender/sex?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1668
+    },
+    {
+      "id": "9321",
+      "query": "How can we get pregnant?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1608
+    },
+    {
+      "id": "8662",
+      "query": "Is there any ghosts in real life?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2119
+    },
+    {
+      "id": "2767",
+      "query": "Why do dogs bark at the same time every night?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1656
+    },
+    {
+      "id": "23543",
+      "query": "What are top five companies to invest in mutual fund in India?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1501
+    },
+    {
+      "id": "12675",
+      "query": "Is self aware Artificial Intelligence possible?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1585
+    },
+    {
+      "id": "18018",
+      "query": "What are the most important programming languages to learn nowadays?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.161
+    },
+    {
+      "id": "11397",
+      "query": "How do you find the percent of two numbers?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1698
+    },
+    {
+      "id": "5058",
+      "query": "How should I prepare the GK section for CDS?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1743
+    },
+    {
+      "id": "21425",
+      "query": "How do I make animation like YouTube channel mypromovideos?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2026
+    },
+    {
+      "id": "25193",
+      "query": "Which are some best places to visit in India?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2124
+    },
+    {
+      "id": "19369",
+      "query": "Which is the hardest programming language?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1967
+    },
+    {
+      "id": "10288",
+      "query": "How do I get funding for my startup idea before we have a prototype?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1667
+    },
+    {
+      "id": "13093",
+      "query": "How can a woman become a pickup artist?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2108
+    },
+    {
+      "id": "29139",
+      "query": "Why can't India manufacture its own advanced weapons rather than importing?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1766
+    },
+    {
+      "id": "17950",
+      "query": "Should I get a Arduino or Raspberry pi?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1707
+    },
+    {
+      "id": "21688",
+      "query": "What are all the cricket based jobs in India?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1815
+    },
+    {
+      "id": "25761",
+      "query": "Have the Japanese forgiven the USA for the atomic bombings of Hiroshima and Nagasaki?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2098
+    },
+    {
+      "id": "13709",
+      "query": "What million-dollar businesses can I start now with just my laptop?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1599
+    },
+    {
+      "id": "10377",
+      "query": "Which are the best places in and around Mumbai to celebrate New Year?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2197
+    },
+    {
+      "id": "29240",
+      "query": "Do you think the demonetization affected black money holders?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1779
+    },
+    {
+      "id": "13015",
+      "query": "Which is best free antivirus for mobile?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2133
+    },
+    {
+      "id": "650",
+      "query": "From your perspective, what is the purpose of life?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1646
+    },
+    {
+      "id": "6060",
+      "query": "How do I become a qualified and professional ethical hacker?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1581
+    },
+    {
+      "id": "27535",
+      "query": "Why is Quora against Donald Trump?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1557
+    },
+    {
+      "id": "21144",
+      "query": "How do you make sure that the one to whom you propose your idea doesn't steal it from you?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1627
+    },
+    {
+      "id": "17934",
+      "query": "Is World War 3 more imminent than expected?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1575
+    },
+    {
+      "id": "25202",
+      "query": "What are the joys of exercises?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1553
+    },
+    {
+      "id": "17771",
+      "query": "What is the difference between contract and an agreement?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.156
+    },
+    {
+      "id": "16036",
+      "query": "What small scale business can I start with just $200?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1599
+    },
+    {
+      "id": "7196",
+      "query": "If it suddenly became legal to make Google Street View in all European countries and not delete unblurred backups afterwards, what would happen next?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1731
+    },
+    {
+      "id": "5594",
+      "query": "Why do people hate Hilary Clinton?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2348
+    },
+    {
+      "id": "1387",
+      "query": "Are Apple products overrated and overpriced?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1748
+    },
+    {
+      "id": "18161",
+      "query": "Why doesn't anyone here answer my questions?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1773
+    },
+    {
+      "id": "420",
+      "query": "Why is Manaphy whiny?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1693
+    },
+    {
+      "id": "717",
+      "query": "What is the GRAND purpose of life?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1637
+    },
+    {
+      "id": "9469",
+      "query": "What is best way to learn violin?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1776
+    },
+    {
+      "id": "19554",
+      "query": "What is SQL injection?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2336
+    },
+    {
+      "id": "9569",
+      "query": "How will the ban of 500 and 1000 rs notes will affect land prices?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.229
+    },
+    {
+      "id": "15278",
+      "query": "How can I improve my English reading comprehension?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1704
+    },
+    {
+      "id": "2127",
+      "query": "Are there any non-stop flights between Leeds and Ibiza, and what are Leeds main tourist attractions?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1625
+    },
+    {
+      "id": "29999",
+      "query": "Have you ever felt presence of God?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1743
+    },
+    {
+      "id": "17101",
+      "query": "Why is the First Amendment so important?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2119
+    },
+    {
+      "id": "9500",
+      "query": "What is the best place to sex?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2189
+    },
+    {
+      "id": "24191",
+      "query": "When is the right time to have sex with someone?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2407
+    },
+    {
+      "id": "17560",
+      "query": "What are the most embarrassing moments in life?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2454
+    },
+    {
+      "id": "1730",
+      "query": "How do I increase my savings?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2373
+    },
+    {
+      "id": "24294",
+      "query": "Why do some people decide to join groups like ISIS?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1803
+    },
+    {
+      "id": "2216",
+      "query": "Which team win IPL 9?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2231
+    },
+    {
+      "id": "7516",
+      "query": "How can you get AIDS?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2199
+    },
+    {
+      "id": "22217",
+      "query": "What is the difference between Anxiety attack and Panic attack?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1629
+    },
+    {
+      "id": "19504",
+      "query": "Which is the best free animating software?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1627
+    },
+    {
+      "id": "9920",
+      "query": "Should I go for MBA right after my Btech?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.166
+    },
+    {
+      "id": "1554",
+      "query": "What are the best way of loose the weight?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1645
+    },
+    {
+      "id": "22",
+      "query": "Why do I love her so much?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1669
+    },
+    {
+      "id": "21369",
+      "query": "What is the best place to view a meteor shower in the SF Bay Area?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1637
+    },
+    {
+      "id": "19571",
+      "query": "How do I improve to express my emotions?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1682
+    },
+    {
+      "id": "26928",
+      "query": "How did Jake Williams calculate his IQ?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1627
+    },
+    {
+      "id": "13648",
+      "query": "Which actor has portrayed Batman the best in movies?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1656
+    },
+    {
+      "id": "23723",
+      "query": "How can we stop hairfall?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1627
+    },
+    {
+      "id": "4972",
+      "query": "What are the benefits of banning 500 and 1000 rupees in India?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2014
+    },
+    {
+      "id": "23263",
+      "query": "How can I get a job in Germany?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.218
+    },
+    {
+      "id": "243",
+      "query": "How many ancient civilizations are still here today?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1605
+    },
+    {
+      "id": "21171",
+      "query": "Favourite movie of all time? Why?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1627
+    },
+    {
+      "id": "7594",
+      "query": "Do space shuttles create sonic boom? If no then why?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1696
+    },
+    {
+      "id": "17607",
+      "query": "How do I view my boost mobile text messages online?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1632
+    },
+    {
+      "id": "25365",
+      "query": "Which is the best digital marketing course?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1655
+    },
+    {
+      "id": "25153",
+      "query": "I am quite skinny. How can I gain weight?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1755
+    },
+    {
+      "id": "23908",
+      "query": "What do you think about Bob Dylan winning the Nobel Literature Prize as a singer and a songwriter?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2098
+    },
+    {
+      "id": "22847",
+      "query": "How can I start and online magazine?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1738
+    },
+    {
+      "id": "29407",
+      "query": "How will the ban on Rs. 1000 and Rs. 500 notes impact Indian economy?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2005
+    },
+    {
+      "id": "28478",
+      "query": "How many religions in the world? Which one is right?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2041
+    },
+    {
+      "id": "23012",
+      "query": "How can a skinny guy weighing 130 pounds gain 20-30 pounds of healthy weight in short time without supplements?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1648
+    },
+    {
+      "id": "29403",
+      "query": "When will India host an Olympics?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1613
+    },
+    {
+      "id": "22148",
+      "query": "What motivates you to answer Quora questions?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1665
+    },
+    {
+      "id": "7953",
+      "query": "Should people over 91 not be allowed to vote?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1615
+    },
+    {
+      "id": "29364",
+      "query": "What is the best marriage proposal to girl who works as recruitment consultant?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1786
+    },
+    {
+      "id": "7923",
+      "query": "Photo best describes the corruption of the government?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2096
+    },
+    {
+      "id": "30012",
+      "query": "Does Diaoyu Island belong to China or Japan?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.215
+    },
+    {
+      "id": "5486",
+      "query": "What\u2019re the good things about working for a big company?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2211
+    },
+    {
+      "id": "4739",
+      "query": "How many times have you failed in CA exams before becoming a CA?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2084
+    },
+    {
+      "id": "9128",
+      "query": "How do I reset Gmail account password?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1926
+    },
+    {
+      "id": "4270",
+      "query": "How do we start preparing c language?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.162
+    },
+    {
+      "id": "19850",
+      "query": "How can I get traffic on my video?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1619
+    },
+    {
+      "id": "28168",
+      "query": "Which is the most over rated Malayalam film?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1697
+    },
+    {
+      "id": "22201",
+      "query": "What should be the first programming language I learn if I want to become a game developer?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1654
+    },
+    {
+      "id": "9914",
+      "query": "How can I improve my English speaking .?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1626
+    },
+    {
+      "id": "24049",
+      "query": "What is the best tool for automation testing right now (in terms of job requirements)?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1621
+    },
+    {
+      "id": "19752",
+      "query": "Are white lies good or bad?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1558
+    },
+    {
+      "id": "5909",
+      "query": "What movies will you recommend for us to watch in 2017? And why?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.175
+    },
+    {
+      "id": "8211",
+      "query": "Is it true that in order to be part of an elite or just rich and successful, you have to join a secret organisation otherwise no chance at all?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1699
+    },
+    {
+      "id": "13719",
+      "query": "How can I be a good son?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1868
+    },
+    {
+      "id": "2636",
+      "query": "Can height increase after 25?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1657
+    },
+    {
+      "id": "25378",
+      "query": "What do Chinese people think of Donald Trump's victory?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1659
+    },
+    {
+      "id": "17545",
+      "query": "Why is there only few magnets?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1612
+    },
+    {
+      "id": "27558",
+      "query": "Which are the best Bollywood movies of 2016?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1705
+    },
+    {
+      "id": "15640",
+      "query": "What drill bit should I use to drill a hole in a glass bottle?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1642
+    },
+    {
+      "id": "7560",
+      "query": "Which are the most scariest movies of all time?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2085
+    },
+    {
+      "id": "264",
+      "query": "What was the dumbest thing you believed to be true as a child?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1747
+    },
+    {
+      "id": "26000",
+      "query": "How is astrology important to our lives?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2097
+    },
+    {
+      "id": "790",
+      "query": "Which sentence in English has all the letters in the alphabet?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2517
+    },
+    {
+      "id": "23990",
+      "query": "What are the travel tips for a flight journey of 4-5hrs with a 6 month old baby?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2191
+    },
+    {
+      "id": "3001",
+      "query": "What are the views of Raghuram Rajan on demonetization?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2269
+    },
+    {
+      "id": "11046",
+      "query": "What is the name of Raavan's father from Ramayan?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1963
+    },
+    {
+      "id": "27046",
+      "query": "Why nobody answer my questions in Quora?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1746
+    },
+    {
+      "id": "2768",
+      "query": "Why did the Indian government demonetize the current 500 and 1000 rupee notes and replace them with new notes?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2175
+    },
+    {
+      "id": "26702",
+      "query": "How can one remove sun tans and lighten the skin back to its original color?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1802
+    },
+    {
+      "id": "5075",
+      "query": "Is Donald Trump secretly a Democrat?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2088
+    },
+    {
+      "id": "26974",
+      "query": "How can I get more views and upvotes on Quora?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1585
+    },
+    {
+      "id": "22582",
+      "query": "How can you speak and learn fluent English like Karan Johar?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1604
+    },
+    {
+      "id": "7259",
+      "query": "How can you tell if your house is being bugged?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1779
+    },
+    {
+      "id": "566",
+      "query": "Will earth survive?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1678
+    },
+    {
+      "id": "29455",
+      "query": "Which software is used by cops to track phone calls using the IMEI or mobile number?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1819
+    },
+    {
+      "id": "19885",
+      "query": "What are the best psychological thriller books?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1599
+    },
+    {
+      "id": "11235",
+      "query": "What hotel in mangalore would be safe for unmarried couples?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1626
+    },
+    {
+      "id": "28892",
+      "query": "What is the most efficient and effective way to study?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1595
+    },
+    {
+      "id": "17083",
+      "query": "How do you know if you are in an emotionally abusive relationship?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1678
+    },
+    {
+      "id": "12369",
+      "query": "What is the best book for learning Python easily?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2141
+    },
+    {
+      "id": "23655",
+      "query": "How do I study PMP?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.235
+    },
+    {
+      "id": "27727",
+      "query": "How do I spend my long weekend in an effective way?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2568
+    },
+    {
+      "id": "15045",
+      "query": "How do I factory reset my Dell laptop to factory settings?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2268
+    },
+    {
+      "id": "11162",
+      "query": "What are career opportunities in companies after an M.Tech in production engineering with a B.Tech in mechanical engineering?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1577
+    },
+    {
+      "id": "10618",
+      "query": "What\u2019s the funniest thing that\u2019s ever happened to you?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1749
+    },
+    {
+      "id": "20772",
+      "query": "Why is India so bad at Olympics?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1973
+    },
+    {
+      "id": "23473",
+      "query": "Will India still able to win gold medal at Rio Olympics even after 7 days?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2084
+    },
+    {
+      "id": "27196",
+      "query": "What are names of movies that will help me to understand physics?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1601
+    },
+    {
+      "id": "4817",
+      "query": "How fast can the fastest fighter jet fly?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.17
+    },
+    {
+      "id": "4815",
+      "query": "Is it theoretically possible for a man to carry and give birth to a baby?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1632
+    },
+    {
+      "id": "13440",
+      "query": "What is the reason for the decline of Buddhism in India and were the Hindus (Brahmins) responsible for the elimination of Buddhists from India?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1841
+    },
+    {
+      "id": "25232",
+      "query": "What do the SC/ST/OBC people feel about the caste based reservation system in India?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1611
+    },
+    {
+      "id": "7176",
+      "query": "What is the best free SEO tools?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.179
+    },
+    {
+      "id": "19258",
+      "query": "What are the differences among the soul, spirit and mind?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1809
+    },
+    {
+      "id": "1996",
+      "query": "How should I stop loving someone who does not love me?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2207
+    },
+    {
+      "id": "22371",
+      "query": "How do you become more interesting?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2076
+    },
+    {
+      "id": "1886",
+      "query": "How is a float or double value stored in memory in java?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2074
+    },
+    {
+      "id": "28272",
+      "query": "When in history did we start giving people names?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1645
+    },
+    {
+      "id": "4620",
+      "query": "What is the best way to lose calories fast?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.215
+    },
+    {
+      "id": "2766",
+      "query": "Do virtual particles in vacuum really exist?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2191
+    },
+    {
+      "id": "12217",
+      "query": "What is the Sahara, and how do the average temperatures there compare to the ones in the Namib Desert?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2092
+    },
+    {
+      "id": "27075",
+      "query": "How do I delete a Gmail account?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1657
+    },
+    {
+      "id": "4003",
+      "query": "What is the most painless way to do a suicide?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1597
+    },
+    {
+      "id": "28314",
+      "query": "What can be the most insane ways to commit suicide?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1647
+    },
+    {
+      "id": "17160",
+      "query": "Why do dogs prefer to piss on tyres?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1741
+    },
+    {
+      "id": "11341",
+      "query": "What should I do if my washing machine won't spin?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1881
+    },
+    {
+      "id": "23317",
+      "query": "Are SIMPs what ripple when galaxy clusters collide and what wave in a double slit experiment?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1706
+    },
+    {
+      "id": "20343",
+      "query": "How do I find a phone number\u2019s location?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.202
+    },
+    {
+      "id": "11862",
+      "query": "How can I take a screenshot in Windows 7?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1752
+    },
+    {
+      "id": "4434",
+      "query": "How do Russians feel about Hillary Clinton?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2035
+    },
+    {
+      "id": "26541",
+      "query": "What do you think about banning 500 and 1000 rupee notes in India?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2287
+    },
+    {
+      "id": "16933",
+      "query": "What, according to you, are the best Hindi songs of 2013?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2355
+    },
+    {
+      "id": "12725",
+      "query": "Why do so many people hate Hilary Clinton?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2025
+    },
+    {
+      "id": "27689",
+      "query": "What are some things that girls use in daily life and can be gifted?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1788
+    },
+    {
+      "id": "23484",
+      "query": "Why can't the US and Russia just be friends?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1646
+    },
+    {
+      "id": "9130",
+      "query": "Who is better Narendra Modi or Manmohan Singh?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2037
+    },
+    {
+      "id": "4328",
+      "query": "Do your anonymous answers affect your stats in Quora?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1533
+    },
+    {
+      "id": "675",
+      "query": "What are the best Bollywood songs?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1504
+    },
+    {
+      "id": "6798",
+      "query": "Do you think Pok\u00e9mon GO is overrated?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1738
+    },
+    {
+      "id": "25417",
+      "query": "What is bad about eating expired eggs?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1449
+    },
+    {
+      "id": "22048",
+      "query": "Is there any NGO in Coimbatore where I can volunteer?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1557
+    },
+    {
+      "id": "20573",
+      "query": "How does Kakao style's business model work?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1587
+    },
+    {
+      "id": "18584",
+      "query": "What is the best infrastructure and app monitoring tool or toolset?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1423
+    },
+    {
+      "id": "7056",
+      "query": "What is the difference between Ms. and Miss?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1581
+    },
+    {
+      "id": "20652",
+      "query": "Will demonetization of Rs. 500 & 1000 currency notes curb/eliminate corruption, black money and terrorism in India?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.152
+    },
+    {
+      "id": "5661",
+      "query": "What do you think about Eden Hazard this season?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1995
+    },
+    {
+      "id": "4419",
+      "query": "What are applications of military power supply?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1995
+    },
+    {
+      "id": "8230",
+      "query": "How can one develop thinking skills?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2108
+    },
+    {
+      "id": "18203",
+      "query": "What do you think about RBI's new move of banning 500 and 1000 notes?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2021
+    },
+    {
+      "id": "5781",
+      "query": "Will Rs. 2000 currency note really come with A GPS chip? Or it is just a rumor?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1512
+    },
+    {
+      "id": "28534",
+      "query": "Why are so many people obsessed with the flat Earth theory?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1567
+    },
+    {
+      "id": "17714",
+      "query": "What are some of the best anime shows?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1523
+    },
+    {
+      "id": "13162",
+      "query": "How can I learn advanced Python?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1552
+    },
+    {
+      "id": "302",
+      "query": "How can I go live/work in US?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1564
+    },
+    {
+      "id": "266",
+      "query": "What are some reasons to join Quora?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.152
+    },
+    {
+      "id": "5547",
+      "query": "When is the best time in your life to travel the world?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.158
+    },
+    {
+      "id": "3402",
+      "query": "What pants go with a black shirt?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1549
+    },
+    {
+      "id": "20291",
+      "query": "What is the most important thing in your life and why?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1622
+    },
+    {
+      "id": "9622",
+      "query": "What are the benefits of grading system in education?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2024
+    },
+    {
+      "id": "7205",
+      "query": "Which laptop is the best for an engineering student?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2021
+    },
+    {
+      "id": "436",
+      "query": "How can I concentrate in my daily studies?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1541
+    },
+    {
+      "id": "2161",
+      "query": "What are some of the weirdest things you saw in a dream?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1492
+    },
+    {
+      "id": "29693",
+      "query": "How can I get good grades without studying like crazy?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1555
+    },
+    {
+      "id": "28459",
+      "query": "What is the difference between biotic and abiotic?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1488
+    },
+    {
+      "id": "16383",
+      "query": "What are the main differences between Microsoft Office 2013 and 2016 for Windows?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1563
+    },
+    {
+      "id": "1069",
+      "query": "What is it like to major in Literature/English?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1621
+    },
+    {
+      "id": "4662",
+      "query": "Why is there such a short length limit on Quora questions? This precludes complex questions!",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1911
+    },
+    {
+      "id": "29435",
+      "query": "Is alchemy possible?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1747
+    },
+    {
+      "id": "2316",
+      "query": "What is procedural programming?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2019
+    },
+    {
+      "id": "6140",
+      "query": "Which country is more powerful, India or Pakistan?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2086
+    },
+    {
+      "id": "11971",
+      "query": "What are some mind blowing camping tools that exist that most people don't know about?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.205
+    },
+    {
+      "id": "5720",
+      "query": "How do you move on after a break up?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1995
+    },
+    {
+      "id": "15452",
+      "query": "Is 15 years old, too old to become an acrobat?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1543
+    },
+    {
+      "id": "3875",
+      "query": "What are the best recipes for small batch chocolate chip cookies?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2014
+    },
+    {
+      "id": "5430",
+      "query": "How do I prepare for IEO exam?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2012
+    },
+    {
+      "id": "20624",
+      "query": "How much does it cost to make a 2000 rupees note to Indian government?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1977
+    },
+    {
+      "id": "3853",
+      "query": "How do I become efficient in competitive programming?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1992
+    },
+    {
+      "id": "13525",
+      "query": "What is the difference between India and USA?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1982
+    },
+    {
+      "id": "13779",
+      "query": "What happen when India and Pakistan become friendly nations?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1718
+    },
+    {
+      "id": "6567",
+      "query": "What are the major differences between Chinese and western culture?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1635
+    },
+    {
+      "id": "15174",
+      "query": "What are the most important things in life? And why?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1725
+    },
+    {
+      "id": "1266",
+      "query": "What are the best pop songs in your opinion?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1724
+    },
+    {
+      "id": "5775",
+      "query": "What is best laptop under 40000 rupees?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2091
+    },
+    {
+      "id": "18648",
+      "query": "Did Joseph Goebbels just sit around in his younger years before he was known?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1664
+    },
+    {
+      "id": "20966",
+      "query": "How do you know if you are in love? How do you know its not just chemicals in your brain trying to trick you to reproduce?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.172
+    },
+    {
+      "id": "25175",
+      "query": "Can a transgender woman become pregnant?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1625
+    },
+    {
+      "id": "25629",
+      "query": "How can I read my husbands secret WhatsApp messages without using his phone?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2047
+    },
+    {
+      "id": "2830",
+      "query": "How can I read Quora offline?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2088
+    },
+    {
+      "id": "17223",
+      "query": "How do I get password of Gmail account?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1671
+    },
+    {
+      "id": "15544",
+      "query": "What are common women's sexual fantasies?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1636
+    },
+    {
+      "id": "25471",
+      "query": "How can I search answers and questions in Quora?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2055
+    },
+    {
+      "id": "19599",
+      "query": "How do I sync Facebook contacts to my Android phone?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2032
+    },
+    {
+      "id": "11931",
+      "query": "What is the concept of God in Judaism?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2148
+    },
+    {
+      "id": "12093",
+      "query": "How can I increase English vocabulary?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.153
+    },
+    {
+      "id": "23280",
+      "query": "What are the best programming languages to learn for developing in the IoT space?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1711
+    },
+    {
+      "id": "25933",
+      "query": "What is the function of a nucleoid in a bacteria cell?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1669
+    },
+    {
+      "id": "29146",
+      "query": "Why do dogs pee mostly on tires?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1858
+    },
+    {
+      "id": "19717",
+      "query": "Political Science: Is the Panchayati Raj system really strengthening our democracy, or helping corruption expansion at the grassroots of democracy?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2391
+    },
+    {
+      "id": "5579",
+      "query": "What is Java primarily used for?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2146
+    },
+    {
+      "id": "737",
+      "query": "What is the best fantasy world ever conceived of in literature?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.163
+    },
+    {
+      "id": "14812",
+      "query": "What is the way to reduce the fat on belly?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1657
+    },
+    {
+      "id": "16432",
+      "query": "How can someone lose weight quickly?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1634
+    },
+    {
+      "id": "23645",
+      "query": "How do I get free music downloads for an iPhone?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2028
+    },
+    {
+      "id": "8043",
+      "query": "What is the typical background of a data engineering?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2156
+    },
+    {
+      "id": "16015",
+      "query": "What type of government does Vietnam have? How was it created?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2108
+    },
+    {
+      "id": "16458",
+      "query": "Is India doing anything to prepare for the imminent water crisis?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2149
+    },
+    {
+      "id": "5502",
+      "query": "What characteristics of Asian men would attract white women?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.205
+    },
+    {
+      "id": "27968",
+      "query": "How do I reset my Gmail Password?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.16
+    },
+    {
+      "id": "14831",
+      "query": "What are the best updated websites to track climate change?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2076
+    },
+    {
+      "id": "23710",
+      "query": "Why does a capacitor block DC but allows AC?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2197
+    },
+    {
+      "id": "8603",
+      "query": "Is it safe to eat raw egg?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2136
+    },
+    {
+      "id": "827",
+      "query": "How do I download movies?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2248
+    },
+    {
+      "id": "18323",
+      "query": "How do you teach your kid to swim?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2047
+    },
+    {
+      "id": "17120",
+      "query": "Can Zooloft make you more creative?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1643
+    },
+    {
+      "id": "15642",
+      "query": "What are some amazing pics?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1691
+    },
+    {
+      "id": "21103",
+      "query": "What is the best way to increase traffic for a new blog?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1978
+    },
+    {
+      "id": "3267",
+      "query": "How do you hack into Instagram?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1615
+    },
+    {
+      "id": "6342",
+      "query": "Who are the most handsome man and beautiful woman in your country?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.165
+    },
+    {
+      "id": "12866",
+      "query": "What are the top ten books on psychology?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.243
+    },
+    {
+      "id": "1063",
+      "query": "How can one start a cooperative bank in India?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1753
+    },
+    {
+      "id": "13147",
+      "query": "What's the function of board directors?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2304
+    },
+    {
+      "id": "7109",
+      "query": "Why do my questions on Quora need improving?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1677
+    },
+    {
+      "id": "6254",
+      "query": "How can beans affect a low-carb diet?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1687
+    },
+    {
+      "id": "5136",
+      "query": "What are some good ways to get over an ex?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1726
+    },
+    {
+      "id": "23136",
+      "query": "Have ancient civilizations been scientifically tested?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1989
+    },
+    {
+      "id": "5139",
+      "query": "Is homosexuality associated with genes?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1789
+    },
+    {
+      "id": "15935",
+      "query": "How can I lose weight fast without exercise?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1656
+    },
+    {
+      "id": "24789",
+      "query": "What should I do when I am not able to study very well?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1681
+    },
+    {
+      "id": "13388",
+      "query": "How could I improve my English?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1663
+    },
+    {
+      "id": "25454",
+      "query": "Do you have sex each week? How often?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1684
+    },
+    {
+      "id": "3490",
+      "query": "What are the factors on which the specific heat of a material, like water, depends?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1658
+    },
+    {
+      "id": "16976",
+      "query": "How do I get seed funds for my project?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1773
+    },
+    {
+      "id": "11839",
+      "query": "How can I make my legs thinner?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1667
+    },
+    {
+      "id": "27930",
+      "query": "What are your fondest childhood memory?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2099
+    },
+    {
+      "id": "22497",
+      "query": "Between Trump and Clinton who will win US presidential election?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2141
+    },
+    {
+      "id": "3386",
+      "query": "What is a convex mirror? What are their uses?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2129
+    },
+    {
+      "id": "15567",
+      "query": "Can we see light?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1716
+    },
+    {
+      "id": "27513",
+      "query": "What are the most important things in life? And why?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1628
+    },
+    {
+      "id": "19852",
+      "query": "What's the difference between being alone and being lonely?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1578
+    },
+    {
+      "id": "15674",
+      "query": "Can I drink green tea before sleeping?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2028
+    },
+    {
+      "id": "23910",
+      "query": "What are the best electric shavers available on the market?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2048
+    },
+    {
+      "id": "7917",
+      "query": "What are the best apps for education?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.161
+    },
+    {
+      "id": "28445",
+      "query": "Are non-living things made out of cells?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2071
+    },
+    {
+      "id": "9535",
+      "query": "Is Brexit likely to happen?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1675
+    },
+    {
+      "id": "24793",
+      "query": "How can I have a successful long distance relationship?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1598
+    },
+    {
+      "id": "21390",
+      "query": "What's the process to start study of IAS?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1665
+    },
+    {
+      "id": "11137",
+      "query": "What is the best way to start learning C language within a month?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1936
+    },
+    {
+      "id": "1046",
+      "query": "How can you prevent jet lag?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1648
+    },
+    {
+      "id": "29561",
+      "query": "India: How can I become a Member of Parliament?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1618
+    },
+    {
+      "id": "22480",
+      "query": "What are the key biotic and abiotic factors in alpine areas?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1603
+    },
+    {
+      "id": "15757",
+      "query": "Why do weeds grow better and faster then plants that people actually want to grow?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1701
+    },
+    {
+      "id": "15752",
+      "query": "What are the tips for self studying?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2373
+    },
+    {
+      "id": "10567",
+      "query": "What is the best way to control your thoughts?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2795
+    },
+    {
+      "id": "2166",
+      "query": "Can I develop Android apps using only Python?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2286
+    },
+    {
+      "id": "29434",
+      "query": "Can I delete all the questions I asked on Quora?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2251
+    },
+    {
+      "id": "23812",
+      "query": "How can I remove a virus from my phone?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.248
+    },
+    {
+      "id": "23591",
+      "query": "What would happen if the Earths spinning speeding doubled at the end of every day?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2417
+    },
+    {
+      "id": "22787",
+      "query": "How can we impeach Donald Trump?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2367
+    },
+    {
+      "id": "13172",
+      "query": "What will be the effect in the economy of China if Indians boycott all the Chinese products?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2241
+    },
+    {
+      "id": "28322",
+      "query": "When should I test for pregnancy?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2082
+    },
+    {
+      "id": "17029",
+      "query": "Does space ever end?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2175
+    },
+    {
+      "id": "12874",
+      "query": "Why is India so bad at Olympics?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2149
+    },
+    {
+      "id": "10329",
+      "query": "How many Americans have died in terrorist attacks since 9/11?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.212
+    },
+    {
+      "id": "16301",
+      "query": "What can I do if I believe my question was wrongfully marked as \"\"needing improvement\"\" by Quora?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2111
+    },
+    {
+      "id": "2553",
+      "query": "Fabrication of pipe from plate?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2138
+    },
+    {
+      "id": "19027",
+      "query": "Why are you a fit for Uber?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2184
+    },
+    {
+      "id": "28580",
+      "query": "Will the US dollar collapse by September 2016?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2048
+    },
+    {
+      "id": "22734",
+      "query": "Does life exist beyond earth?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1628
+    },
+    {
+      "id": "4358",
+      "query": "How can I search answers and questions in Quora?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1607
+    },
+    {
+      "id": "10839",
+      "query": "I'm 18 and have nothing to do with my life, what should I do?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1637
+    },
+    {
+      "id": "12496",
+      "query": "How can you delete your Yahoo mail account?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2059
+    },
+    {
+      "id": "5804",
+      "query": "How do I know who viewed my instagram profile?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1509
+    },
+    {
+      "id": "23891",
+      "query": "Who do you think will run for president as a democrat in 2020?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2061
+    },
+    {
+      "id": "25672",
+      "query": "What are your views on PM Modi's decision on discontinuing 500 & 1000 rs notes?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2052
+    },
+    {
+      "id": "14388",
+      "query": "How should a perfect relationship be?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2125
+    },
+    {
+      "id": "24251",
+      "query": "Is India a democracy or a republic?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2033
+    },
+    {
+      "id": "29337",
+      "query": "How do I get more followers on Instagram?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1585
+    },
+    {
+      "id": "28743",
+      "query": "What is the lock symbol button on my iPhone 4?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1615
+    },
+    {
+      "id": "2066",
+      "query": "Is it possible to recover an email deleted from the Gmail trash folder?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1634
+    },
+    {
+      "id": "21046",
+      "query": "What are the differences between Tamilians and Kannadigas?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1526
+    },
+    {
+      "id": "3414",
+      "query": "How will the India demonetization of 500 and 1000 rupees notes will reduce black money?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1652
+    },
+    {
+      "id": "268",
+      "query": "How can I lose 4kg weight?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1699
+    },
+    {
+      "id": "25316",
+      "query": "Did Einstein believed in God?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.206
+    },
+    {
+      "id": "21413",
+      "query": "What are some of the advantages of filling nitrogen gas filling in tires?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1789
+    },
+    {
+      "id": "2391",
+      "query": "How people learn to hack?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1625
+    },
+    {
+      "id": "13668",
+      "query": "How can one get over a fear of flying?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1595
+    },
+    {
+      "id": "5316",
+      "query": "What is it like to be gay in Sweden?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1629
+    },
+    {
+      "id": "5396",
+      "query": "How can I start a conversation with a girl on Facebook with whom I have never talked to before?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1621
+    },
+    {
+      "id": "6366",
+      "query": "Why did the Tata Sons sacked Cyrus Mistry?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.166
+    },
+    {
+      "id": "3646",
+      "query": "How we can post in Quora?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1673
+    },
+    {
+      "id": "6598",
+      "query": "Can I learn to play guitar on my own?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1744
+    },
+    {
+      "id": "5216",
+      "query": "Do you think there's life on other planets?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1536
+    },
+    {
+      "id": "897",
+      "query": "Why should someone choose Windows over Mac OS X or Linux?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1707
+    },
+    {
+      "id": "26671",
+      "query": "What are the differences between sex and gender?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1592
+    },
+    {
+      "id": "16209",
+      "query": "What do girls like in a guy?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1614
+    },
+    {
+      "id": "23968",
+      "query": "Why are rear wheels of a tractor bigger than its front wheels?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1591
+    },
+    {
+      "id": "25038",
+      "query": "What are the wittiest pieces of sarcasm?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1885
+    },
+    {
+      "id": "26117",
+      "query": "Is there a possibility of World War III happening in the next 10 years?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2687
+    },
+    {
+      "id": "8113",
+      "query": "Why do so many people prefer to ask questions on here and wait for an answer rather than type one or two words in a search engine?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2535
+    },
+    {
+      "id": "1872",
+      "query": "How can I start learning physics by myself?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1986
+    },
+    {
+      "id": "905",
+      "query": "Has reading a book ever changed your life? Which one?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1578
+    },
+    {
+      "id": "6893",
+      "query": "How are the 3D printer and its related businesses in India? Are there good business opportunities?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1696
+    },
+    {
+      "id": "28267",
+      "query": "Can you wear a steel necklace 24/7 in shower and bed not take it off?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.16
+    },
+    {
+      "id": "22484",
+      "query": "At what age does breasts stop grow?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1635
+    },
+    {
+      "id": "21375",
+      "query": "Which are the best training institute for ccie in Pune?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.161
+    },
+    {
+      "id": "28197",
+      "query": "Which particular book changed your life?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1629
+    },
+    {
+      "id": "26539",
+      "query": "Is anal sex bad for health?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1571
+    },
+    {
+      "id": "24030",
+      "query": "What's the most embarrassing thing that's happened to you in front of your crush?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1632
+    },
+    {
+      "id": "1981",
+      "query": "Why did Arnab Goswami Resigned?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1611
+    },
+    {
+      "id": "4685",
+      "query": "What can Muslims and Jews learn from each other?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1609
+    },
+    {
+      "id": "24116",
+      "query": "What can I drink to boost metabolism?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1655
+    },
+    {
+      "id": "7014",
+      "query": "Why do so many mainland chinese become US citizens but always proclaim their love-n-loyalty to their Motherland (China) instead of to the US?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2066
+    },
+    {
+      "id": "8033",
+      "query": "Why do you add cheddar cheese on a lasagna?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1588
+    },
+    {
+      "id": "19413",
+      "query": "What are the legitimate ways to earn money online?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2127
+    },
+    {
+      "id": "14435",
+      "query": "What is it like to be so famous?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2069
+    },
+    {
+      "id": "26775",
+      "query": "What are the most efficient methods for me to improve my English?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2118
+    },
+    {
+      "id": "17006",
+      "query": "What are the best dubstep tracks?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1949
+    },
+    {
+      "id": "19491",
+      "query": "Why do we often judge people by their appearance?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1605
+    },
+    {
+      "id": "17034",
+      "query": "Why is salt water taffy candy imported in France?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1657
+    },
+    {
+      "id": "3780",
+      "query": "What are the safety issues in the design of C language?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1578
+    },
+    {
+      "id": "20031",
+      "query": "Which is the best phone to buy under 15000?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1953
+    },
+    {
+      "id": "1072",
+      "query": "How would I bring 1988 back by decorating my room as a more grown up theme?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2075
+    },
+    {
+      "id": "21060",
+      "query": "How can I stop loving anyone?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1634
+    },
+    {
+      "id": "19474",
+      "query": "What are the courses to do in the USA after the completion of a PGDM/MBA in India?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1625
+    },
+    {
+      "id": "24609",
+      "query": "Who keeps you inspired?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1625
+    },
+    {
+      "id": "26705",
+      "query": "I want to improve my English?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1727
+    },
+    {
+      "id": "15213",
+      "query": "If Hillary Clinton becomes the President, can we call her husband the First Man?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1625
+    },
+    {
+      "id": "16904",
+      "query": "What are your opinions on Brexit?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1649
+    },
+    {
+      "id": "10660",
+      "query": "What are the types of infinity?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1744
+    },
+    {
+      "id": "16562",
+      "query": "Why does bengal partition done?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1613
+    },
+    {
+      "id": "1313",
+      "query": "What did it feel like when you first had sex?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1567
+    },
+    {
+      "id": "22720",
+      "query": "What things to mention and what not in your tinder bio?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1735
+    },
+    {
+      "id": "23390",
+      "query": "Is money important to society?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1799
+    },
+    {
+      "id": "8066",
+      "query": "Why did the Tata Sons sacked Cyrus Mistry?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.162
+    },
+    {
+      "id": "28409",
+      "query": "What is a technology stack?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1642
+    },
+    {
+      "id": "26520",
+      "query": "Why is Amartya Sen famous?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.16
+    },
+    {
+      "id": "13452",
+      "query": "If you ever met your younger self what would your suggestions be to your younger self?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1574
+    },
+    {
+      "id": "3024",
+      "query": "Where does New York City's garbage end up?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1625
+    },
+    {
+      "id": "2942",
+      "query": "Why is alcohol addictive?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1493
+    },
+    {
+      "id": "2303",
+      "query": "Why did South Vietnam lose? How come a democratic country lost against a dictatorship country?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1617
+    },
+    {
+      "id": "28549",
+      "query": "What are the safety precautions on handling shotguns proposed by the NRA in Wisconsin?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2048
+    },
+    {
+      "id": "3810",
+      "query": "What are some of the most preposterous myths about the Soviet Union?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2045
+    },
+    {
+      "id": "3068",
+      "query": "How can I make green tea?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2055
+    },
+    {
+      "id": "23028",
+      "query": "How did Islam spread to all the world?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1536
+    },
+    {
+      "id": "7567",
+      "query": "How would I know if she likes me?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.155
+    },
+    {
+      "id": "24869",
+      "query": "How will the indian economy be affected if there is a war between India and Pakistan?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2032
+    },
+    {
+      "id": "21976",
+      "query": "Are we heading toward World War 3?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1633
+    },
+    {
+      "id": "26371",
+      "query": "Should we have the right to arm bears?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2088
+    },
+    {
+      "id": "24393",
+      "query": "What are some examples of simple diffusion?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1606
+    },
+    {
+      "id": "7445",
+      "query": "Who is going to win the presidential election?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1568
+    },
+    {
+      "id": "4990",
+      "query": "Who do you think will win the 2016 Presidential Election?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.158
+    },
+    {
+      "id": "25095",
+      "query": "What is the best way to create an ecommerce website?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1585
+    },
+    {
+      "id": "4886",
+      "query": "What are the colors in the rainbow?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.156
+    },
+    {
+      "id": "18866",
+      "query": "What are your thoughts about proposals for reservation in the private sector?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1559
+    },
+    {
+      "id": "18705",
+      "query": "What is financial reporting?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.159
+    },
+    {
+      "id": "24219",
+      "query": "What should I eat in Munnar?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1615
+    },
+    {
+      "id": "24713",
+      "query": "Will Donald Trump actually make America great again?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2042
+    },
+    {
+      "id": "25866",
+      "query": "What is good age for marriage?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2058
+    },
+    {
+      "id": "16534",
+      "query": "What are air standard cycles?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1646
+    },
+    {
+      "id": "28810",
+      "query": "What are reactions in Pakistan after surgical attack by India?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1593
+    },
+    {
+      "id": "8183",
+      "query": "What are some of the best video games of 2015?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2066
+    },
+    {
+      "id": "6879",
+      "query": "What is the best book intro to topology?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1559
+    },
+    {
+      "id": "24634",
+      "query": "Why do you want to stay single?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1564
+    },
+    {
+      "id": "14976",
+      "query": "Is Bhutan an Indian protectorate? If not why Bhutan is not free to made its foreign policy? If yes Why it didn't became part of India as Sikkim did?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.158
+    },
+    {
+      "id": "25694",
+      "query": "Is there a way to see a history of deleted photos on instagram?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.217
+    },
+    {
+      "id": "11232",
+      "query": "Why do people want to become lawyers?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1725
+    },
+    {
+      "id": "24772",
+      "query": "How winning money from YouTube?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1639
+    },
+    {
+      "id": "3078",
+      "query": "What are the best cars under $2000?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1933
+    },
+    {
+      "id": "29852",
+      "query": "Which diet is better overall: high carb-low fat OR low fat-high carb?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1984
+    },
+    {
+      "id": "16283",
+      "query": "Recommend some good books for building foundation for IIT in class 10?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1954
+    },
+    {
+      "id": "21208",
+      "query": "How should I learn interaction design? Where should I start?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2001
+    },
+    {
+      "id": "21902",
+      "query": "What's the difference between Information Technology and Information Systems?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1594
+    },
+    {
+      "id": "17182",
+      "query": "How does Donald Trump's win affects Indian students preparing for graduate studies in US?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1608
+    },
+    {
+      "id": "29900",
+      "query": "What should I do to succeed?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1634
+    },
+    {
+      "id": "3030",
+      "query": "What are some tips for learning to play piano as an adult?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1712
+    },
+    {
+      "id": "18478",
+      "query": "What are some real life examples of \u201cKarma\"\"?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2045
+    },
+    {
+      "id": "17982",
+      "query": "How do I get and maintain a pilot's license?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1571
+    },
+    {
+      "id": "25455",
+      "query": "What do you think about RBI's new move of banning 500 and 1000 notes?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2043
+    },
+    {
+      "id": "20687",
+      "query": "How helpful is Neosporin on dry skin?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2045
+    },
+    {
+      "id": "2736",
+      "query": "How reliable is Quora in getting us accurate answers?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2102
+    },
+    {
+      "id": "12760",
+      "query": "How does the share market work?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1637
+    },
+    {
+      "id": "1010",
+      "query": "What were the major effects of the cambodia earthquake, and how do these effects compare to the Concepcion earthquake in 1835?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2049
+    },
+    {
+      "id": "4560",
+      "query": "What is the most powerful laser?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2055
+    },
+    {
+      "id": "18900",
+      "query": "What after signing up on Quora?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2092
+    },
+    {
+      "id": "21920",
+      "query": "What are some best innovative final year electrical engineering projects?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2154
+    },
+    {
+      "id": "19547",
+      "query": "How do I hire a legit hacker?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2089
+    },
+    {
+      "id": "2780",
+      "query": "What is the best embarrassing moment of your life?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2012
+    },
+    {
+      "id": "19149",
+      "query": "How do I choose a topic to write an Ebook?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2027
+    },
+    {
+      "id": "6799",
+      "query": "What are some of the most annoying questions on Quora that you wanted to answer?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2029
+    },
+    {
+      "id": "23193",
+      "query": "What is hypocrite?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1601
+    },
+    {
+      "id": "1568",
+      "query": "How do I have meaningful relationships with people?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2006
+    },
+    {
+      "id": "7226",
+      "query": "Do literate Pakistanis know that they haven\u2019t won any war against India?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2035
+    },
+    {
+      "id": "25782",
+      "query": "Who will be USA next president, Trump or Clinton?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1616
+    },
+    {
+      "id": "10524",
+      "query": "What are ways of earning money online?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2192
+    },
+    {
+      "id": "1155",
+      "query": "What are the tips to grow taller?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1681
+    },
+    {
+      "id": "23679",
+      "query": "What is make money online?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2108
+    },
+    {
+      "id": "13192",
+      "query": "Why do astronauts have a white and an orange coloured space suit?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1795
+    },
+    {
+      "id": "12937",
+      "query": "How do you become more assertive?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1917
+    },
+    {
+      "id": "2327",
+      "query": "When two black holes collide, which one absorbs the other?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2007
+    },
+    {
+      "id": "11782",
+      "query": "Which are the best ninja dragon games?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1995
+    },
+    {
+      "id": "4602",
+      "query": "Can you delete answers to your questions on Quora?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2246
+    },
+    {
+      "id": "21329",
+      "query": "What causes type 1 diabetes?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1616
+    },
+    {
+      "id": "20933",
+      "query": "What are some new business ideas with lesser investment?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2109
+    },
+    {
+      "id": "3829",
+      "query": "How and when is the world going to end?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.206
+    },
+    {
+      "id": "9801",
+      "query": "How do I get rid of fat in my midsection?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1999
+    },
+    {
+      "id": "10786",
+      "query": "What is the worst film to win an Oscar?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2044
+    },
+    {
+      "id": "22863",
+      "query": "What is the easy way to make money online?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1519
+    },
+    {
+      "id": "29427",
+      "query": "What are the chances that Donald Trump will be the next US president?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1492
+    },
+    {
+      "id": "9989",
+      "query": "What are some facts that restore your faith in humanity?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1587
+    },
+    {
+      "id": "21584",
+      "query": "Have you ever visited a truly legitimate psychic? If so, what did they say to convince you?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1999
+    },
+    {
+      "id": "22943",
+      "query": "How did cuss words originate?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1603
+    },
+    {
+      "id": "13020",
+      "query": "How do I stop caring about someone who obviously doesn't care about me anymore?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1561
+    },
+    {
+      "id": "20991",
+      "query": "How can I grow taller at 18?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1531
+    },
+    {
+      "id": "6284",
+      "query": "What is the best (not necessarily most expensive) food you've ever eaten?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1489
+    },
+    {
+      "id": "2904",
+      "query": "How long meth stay in system?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1557
+    },
+    {
+      "id": "17432",
+      "query": "What is it like to be a hot transgender woman?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1697
+    },
+    {
+      "id": "15293",
+      "query": "What movie have you watched that made you think it's life changing?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2076
+    },
+    {
+      "id": "23337",
+      "query": "Why do doctors need to learn english?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1506
+    },
+    {
+      "id": "25940",
+      "query": "Why do we have to care about what people think?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1659
+    },
+    {
+      "id": "6850",
+      "query": "Why does my left eye keep jumping?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1585
+    },
+    {
+      "id": "25263",
+      "query": "What is the importance of keyword in SEO?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1515
+    },
+    {
+      "id": "22062",
+      "query": "How do I cope with feeling overwhelmed?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1532
+    },
+    {
+      "id": "10738",
+      "query": "How much coffee should I drink per day?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1524
+    },
+    {
+      "id": "22069",
+      "query": "What will happen to Pakistan if it is declared a terrorist state?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.168
+    },
+    {
+      "id": "27999",
+      "query": "How good is the Pleven medical college in Bulgaria?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1551
+    },
+    {
+      "id": "9915",
+      "query": "Which decade has the best movies?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1983
+    },
+    {
+      "id": "22231",
+      "query": "How can I make time go by faster?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1933
+    },
+    {
+      "id": "18512",
+      "query": "What is resistance temperature coefficient?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1716
+    },
+    {
+      "id": "5476",
+      "query": "How can I get out of my comfort zone and be myself at the same time?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1935
+    },
+    {
+      "id": "1938",
+      "query": "Which is the best gift that you have ever received?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1509
+    },
+    {
+      "id": "9893",
+      "query": "Why are there no gay animals?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1563
+    },
+    {
+      "id": "2159",
+      "query": "What is the best book about digital marketing?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1484
+    },
+    {
+      "id": "793",
+      "query": "Is there any chance of inventing time machine?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1511
+    },
+    {
+      "id": "9524",
+      "query": "Do Android apps use iCloud?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1516
+    },
+    {
+      "id": "22275",
+      "query": "Why do creationists ignore all evidence for evolution?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1533
+    },
+    {
+      "id": "21220",
+      "query": "Why can nothing move faster than light?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1558
+    },
+    {
+      "id": "25044",
+      "query": "Who will win elections of 2017 in Uttar Pradesh and why?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1606
+    },
+    {
+      "id": "230",
+      "query": "Can we live and enjoy life without our beloved & dangerous absolutes (heaven/hell, good/evil, truth/falsehood) but only boring, depressing relatives?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1674
+    },
+    {
+      "id": "26339",
+      "query": "How can I stop falling asleep at work?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1526
+    },
+    {
+      "id": "21947",
+      "query": "What are the best supercars for adrenaline junkies?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1538
+    },
+    {
+      "id": "18622",
+      "query": "What is the most embarrassing moment your crush had in front of you?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2055
+    },
+    {
+      "id": "20084",
+      "query": "How do you write longer details for a Quora question?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2166
+    },
+    {
+      "id": "27485",
+      "query": "How can I overcome masturbation and/or porn addiction?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.275
+    },
+    {
+      "id": "13843",
+      "query": "What is lean muscle?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2138
+    },
+    {
+      "id": "4782",
+      "query": "When is the best time to get married in India?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2001
+    },
+    {
+      "id": "29219",
+      "query": "How does evolution explain the move from asexual to sexual reproduction?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2004
+    },
+    {
+      "id": "11801",
+      "query": "How do I find Best SEO Company in Delhi?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.171
+    },
+    {
+      "id": "22922",
+      "query": "Is binary options trading legal in India?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1703
+    },
+    {
+      "id": "16707",
+      "query": "What are my chances for acceptance into Ivy League schools?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2067
+    },
+    {
+      "id": "29997",
+      "query": "What does Jimmy Wales think about the relatively widespread belief that Wikipedia is an unreliable source?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1466
+    },
+    {
+      "id": "8170",
+      "query": "Which are the best suspense and thriller movies?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1662
+    },
+    {
+      "id": "22377",
+      "query": "Can I become a CA without coaching?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1668
+    },
+    {
+      "id": "9322",
+      "query": "What is the difference between terrorists and militants?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1499
+    },
+    {
+      "id": "2116",
+      "query": "Do you think Indian governments decision to demonetize the 500 and 1000 rupee note is a sudden action?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1554
+    },
+    {
+      "id": "6910",
+      "query": "How can I see who viewed my instagram post?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1488
+    },
+    {
+      "id": "9022",
+      "query": "Why do Americans call petrol gas when it is clearly a liquid?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1695
+    },
+    {
+      "id": "5420",
+      "query": "How does a nuclear power station work?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1416
+    },
+    {
+      "id": "29142",
+      "query": "What is the best super power?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1521
+    },
+    {
+      "id": "5913",
+      "query": "How do I learn c programming for beginners?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1583
+    },
+    {
+      "id": "15563",
+      "query": "Is Donald Trump really a closet liberal?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.193
+    },
+    {
+      "id": "29796",
+      "query": "How can I fall in love again? I was hurt once and swore it would only happen once.",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2002
+    },
+    {
+      "id": "2059",
+      "query": "What does an actuary do and why are they  important?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1855
+    },
+    {
+      "id": "20848",
+      "query": "How do I improve confidence?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1997
+    },
+    {
+      "id": "22004",
+      "query": "How does Websockets operate?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1955
+    },
+    {
+      "id": "27224",
+      "query": "Why do people make fun of Ponyo?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1497
+    },
+    {
+      "id": "12914",
+      "query": "Which is the best Smartphone under INR 15000 ?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1504
+    },
+    {
+      "id": "8491",
+      "query": "If you could go back in time and re-do any single 24-hour period in your life, what would you have done differently?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1521
+    },
+    {
+      "id": "28727",
+      "query": "Why is Nikola Tesla not taught in school?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.143
+    },
+    {
+      "id": "26056",
+      "query": "What would happen to the US if Donald Trump became the president?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.15
+    },
+    {
+      "id": "21200",
+      "query": "Is it possible to time travel to past?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1585
+    },
+    {
+      "id": "3672",
+      "query": "Why does water evaporate even though it's not boiled?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1913
+    },
+    {
+      "id": "25936",
+      "query": "Why do so many people ask soppy questions on Quora, which can easily be Googled?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1584
+    },
+    {
+      "id": "16813",
+      "query": "What would you say are the most important things you learned/gained in college?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2123
+    },
+    {
+      "id": "29695",
+      "query": "What is the meaning of the popular vote in the United States if the electoral college decides the president?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1808
+    },
+    {
+      "id": "1674",
+      "query": "What should I do if I want to become a web developer?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2083
+    },
+    {
+      "id": "1780",
+      "query": "How do I do internship at google?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1744
+    },
+    {
+      "id": "14080",
+      "query": "Does chondromalacia platella ever go away completely?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1935
+    },
+    {
+      "id": "1419",
+      "query": "How can I get a job with the Trump Administration?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2055
+    },
+    {
+      "id": "28296",
+      "query": "How do I write a post Quora?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1549
+    },
+    {
+      "id": "7015",
+      "query": "The walking dead season 7?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1584
+    },
+    {
+      "id": "25521",
+      "query": "Can I patent a business model in India?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2035
+    },
+    {
+      "id": "11469",
+      "query": "Can we travel in time?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2043
+    },
+    {
+      "id": "6587",
+      "query": "What government exams, other than the GATE can average mark final year computer science students give?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2017
+    },
+    {
+      "id": "18867",
+      "query": "What is developing length?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1797
+    },
+    {
+      "id": "19592",
+      "query": "What are black holes? How are they formed?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1628
+    },
+    {
+      "id": "7102",
+      "query": "Is it possible to mute a question on Quora?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2062
+    },
+    {
+      "id": "3177",
+      "query": "What is Sensex exactly? Why does its value fluctuate?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2021
+    },
+    {
+      "id": "12453",
+      "query": "How will the ban of 1000 and 500 rupee notes affect the Indian economy?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.182
+    },
+    {
+      "id": "6131",
+      "query": "Can I give my dog asprin?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1616
+    },
+    {
+      "id": "27624",
+      "query": "Which is the best earphone under 1500 rupees?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1584
+    },
+    {
+      "id": "28257",
+      "query": "Is it bad to like someone?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2041
+    },
+    {
+      "id": "25120",
+      "query": "How do I solve canonical issues?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2042
+    },
+    {
+      "id": "19889",
+      "query": "Do people see questions that are marked as needing improvement?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1585
+    },
+    {
+      "id": "25963",
+      "query": "What is the procedure for applying for a Tata scholarship in Cornell University?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1645
+    },
+    {
+      "id": "16834",
+      "query": "What goes good with vodka?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1584
+    },
+    {
+      "id": "27860",
+      "query": "What is the best way to cook lobsters?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2045
+    },
+    {
+      "id": "23210",
+      "query": "Which are some good places to hangout in Pune?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1891
+    },
+    {
+      "id": "16805",
+      "query": "What are other good books from JK Rowling other than Harry Potter?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1988
+    },
+    {
+      "id": "13556",
+      "query": "Is Donald trump intelligent?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1597
+    },
+    {
+      "id": "19380",
+      "query": "Is eating raw eggs good or bad?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1569
+    },
+    {
+      "id": "26877",
+      "query": "What are some job opportunities for a mechanical engineer in Germany?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1733
+    },
+    {
+      "id": "17811",
+      "query": "Why haven't any other countries been to the Moon since the U.S. last did with Apollo 17?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1595
+    },
+    {
+      "id": "9593",
+      "query": "What constitutes cell membranes? What purpose does it serve?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1492
+    },
+    {
+      "id": "19624",
+      "query": "What is the best time to study?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1543
+    },
+    {
+      "id": "24143",
+      "query": "How do I learn English step by step?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.158
+    },
+    {
+      "id": "23641",
+      "query": "Which are the best romantic movies to watch?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1561
+    },
+    {
+      "id": "17956",
+      "query": "How can I improve my English pronunciation?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1577
+    },
+    {
+      "id": "9924",
+      "query": "FAFSA approved my loans to travel and study abroad. Will it release them to me so I can leave the US?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1553
+    },
+    {
+      "id": "14888",
+      "query": "What programming language I should learn first?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1586
+    },
+    {
+      "id": "7237",
+      "query": "How do I lose fats and excessive weight from body?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1608
+    },
+    {
+      "id": "8110",
+      "query": "What are the best books for c++?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1568
+    },
+    {
+      "id": "27166",
+      "query": "What is web designing introduction?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1555
+    },
+    {
+      "id": "732",
+      "query": "What are 3 habits that highly productive people have on a daily basis?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1549
+    },
+    {
+      "id": "19741",
+      "query": "How do I get started with programming?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1566
+    },
+    {
+      "id": "18051",
+      "query": "Is it too late to study medicine at 23?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1552
+    },
+    {
+      "id": "8623",
+      "query": "How do I get a job in the VLSI field?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1574
+    },
+    {
+      "id": "20677",
+      "query": "How do I know who view my Instagram?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1634
+    },
+    {
+      "id": "26356",
+      "query": "Where do airplanes dump their waste?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1543
+    },
+    {
+      "id": "26041",
+      "query": "Can you view someone's profile on private on Instagram?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1509
+    },
+    {
+      "id": "12606",
+      "query": "Which Linux distribution is best for Begginers?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.154
+    },
+    {
+      "id": "20247",
+      "query": "How can I register my email ID and phone number in an Aadhar card - UID online?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1549
+    },
+    {
+      "id": "12501",
+      "query": "When did you start your business?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1598
+    },
+    {
+      "id": "7745",
+      "query": "Which are the best earphones under 2000INR or 35USD?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1573
+    },
+    {
+      "id": "9979",
+      "query": "How to identify the routing number in a check from Bank Of America?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1599
+    },
+    {
+      "id": "23632",
+      "query": "What are the best techniques for off-page SEO?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.159
+    },
+    {
+      "id": "10440",
+      "query": "What are the best books for c++?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1564
+    },
+    {
+      "id": "21785",
+      "query": "What are the most useful iPhone apps?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.16
+    },
+    {
+      "id": "29520",
+      "query": "Why do so may people ask questions on Quora that can easily be found by a simple Google searh?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1697
+    },
+    {
+      "id": "14581",
+      "query": "What is your favorite rock song? Why?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1479
+    },
+    {
+      "id": "11980",
+      "query": "What is associate degree?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1586
+    },
+    {
+      "id": "2014",
+      "query": "What is the total cost of printing and circulating of the new Rs 500 and Rs 2000 notes?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1564
+    },
+    {
+      "id": "26761",
+      "query": "What is your biggest frustration with homeschooling?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.154
+    },
+    {
+      "id": "24918",
+      "query": "What is it like going from poor to rich in a short time?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1592
+    },
+    {
+      "id": "28560",
+      "query": "Who do you think won the second 2016 Presidential debate?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1569
+    },
+    {
+      "id": "35",
+      "query": "Which company provides the best website design service in Hyderabad?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1561
+    },
+    {
+      "id": "28629",
+      "query": "Which is the best gaming laptop under Rs 60000?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.161
+    },
+    {
+      "id": "19683",
+      "query": "If you had only 24 hours left to live, what would you do?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1777
+    },
+    {
+      "id": "16597",
+      "query": "How does electric field form closed loops?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2144
+    },
+    {
+      "id": "6952",
+      "query": "What do non-muslims think about the hijab?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2139
+    },
+    {
+      "id": "1244",
+      "query": "How do I make quick money legally?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1751
+    },
+    {
+      "id": "1866",
+      "query": "What is political globalization? What are some examples?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1592
+    },
+    {
+      "id": "24937",
+      "query": "What is ACM-ICPC. How should I prepare for it in a year from scratch?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1639
+    },
+    {
+      "id": "30050",
+      "query": "Wanna ask someone please. What is life? And what is the purpose of our life?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2025
+    },
+    {
+      "id": "11667",
+      "query": "Why do only the union territories of Delhi and Puducherry have chief ministers and not others?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.225
+    },
+    {
+      "id": "14869",
+      "query": "How do I get rid of lines under my eyes?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2258
+    },
+    {
+      "id": "18215",
+      "query": "Why doesn't honey go bad?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.202
+    },
+    {
+      "id": "7427",
+      "query": "Is it too late to learn to play the piano at 15?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2002
+    },
+    {
+      "id": "1286",
+      "query": "How do I look at someone's Instagram when it's private?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2087
+    },
+    {
+      "id": "21613",
+      "query": "What is the electrical engineering scope in India?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1506
+    },
+    {
+      "id": "7084",
+      "query": "How do I go about asking the right questions?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1926
+    },
+    {
+      "id": "10241",
+      "query": "How do you study effectively?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2035
+    },
+    {
+      "id": "5090",
+      "query": "How is views on answers in Quora calculated?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1545
+    },
+    {
+      "id": "29599",
+      "query": "Can I block someone from following me on Quora?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1947
+    },
+    {
+      "id": "12499",
+      "query": "What is the best thing a teacher taught you?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1484
+    },
+    {
+      "id": "1245",
+      "query": "How can I get fund for my startup like Flipboard?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1715
+    },
+    {
+      "id": "24009",
+      "query": "What is a functional region?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1492
+    },
+    {
+      "id": "17011",
+      "query": "What should I learn to become a best digital marketer?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1707
+    },
+    {
+      "id": "11407",
+      "query": "What is a motivational song?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1577
+    },
+    {
+      "id": "24272",
+      "query": "Why do we mourn the loss of celebrities we never met in person?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1502
+    },
+    {
+      "id": "10509",
+      "query": "Is Ae Dil Hai Mushkil better than Shivaay?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1542
+    },
+    {
+      "id": "11442",
+      "query": "Which is your favourite quote of all time?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.149
+    },
+    {
+      "id": "13820",
+      "query": "Why is the government abruptly banning the 500 Rupees and the 1000 rupees currency notes in India?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1493
+    },
+    {
+      "id": "2192",
+      "query": "What are some saturated solution examples?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1519
+    },
+    {
+      "id": "7683",
+      "query": "What are the best ways to prepare for the redesigned (March 2016) SAT?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1488
+    },
+    {
+      "id": "17965",
+      "query": "Does the following script (\u0256\u2200\u0f61\u0632\u2202 \u0250\u0167 \u01ab\u04bf\u03de\u026e\u2609 \u027d\u03c6\u0289\u029b\u0195), appear like written Greek?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1839
+    },
+    {
+      "id": "25624",
+      "query": "Is it safe to develop safety critical systems in C language?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1674
+    },
+    {
+      "id": "26536",
+      "query": "How can I become a pornstar ?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1535
+    },
+    {
+      "id": "4820",
+      "query": "How much money has the U.S. Congress and Senate spent investigating Hillary Clinton, and what has the country gained from these investigations?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1579
+    },
+    {
+      "id": "18929",
+      "query": "How can I contact Bangalore call girls?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1716
+    },
+    {
+      "id": "23170",
+      "query": "What do Hillary Clinton and Tim Kaine like about Quora?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1731
+    },
+    {
+      "id": "16995",
+      "query": "Why are people so cynical?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2383
+    },
+    {
+      "id": "5639",
+      "query": "What things have you learned over the course of writing this book that surprised you?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1718
+    },
+    {
+      "id": "21179",
+      "query": "What do you think about RBI's new move of banning 500 and 1000 notes?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1521
+    },
+    {
+      "id": "29000",
+      "query": "What makes you believe the religion you practice is the right one?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1557
+    },
+    {
+      "id": "12123",
+      "query": "How can I get rid of girlfriend?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1521
+    },
+    {
+      "id": "15809",
+      "query": "What was it like being in NYC during 9/11?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1608
+    },
+    {
+      "id": "479",
+      "query": "Why do so many people add questions anonymously?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1586
+    },
+    {
+      "id": "13459",
+      "query": "Why did GOI demobilise 500 and 1000 rupee notes?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1633
+    },
+    {
+      "id": "9113",
+      "query": "How do I spy on my spouse text?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1871
+    },
+    {
+      "id": "18956",
+      "query": "How can I clear bank exams after my graduation? Which books to refer?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2229
+    },
+    {
+      "id": "23969",
+      "query": "How do I increase followers in Quora?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2156
+    },
+    {
+      "id": "1955",
+      "query": "What are the risk associated with using free WiFi on public spots?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2352
+    },
+    {
+      "id": "3817",
+      "query": "Which is the best Mystery movie and why?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2289
+    },
+    {
+      "id": "21942",
+      "query": "What is the difference between backend and frontend development?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1769
+    },
+    {
+      "id": "288",
+      "query": "Where does mica used in building?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.239
+    },
+    {
+      "id": "1102",
+      "query": "What do you think I should learn first as a beginner programmer?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1743
+    },
+    {
+      "id": "22946",
+      "query": "What are the behavioral differences between an introvert and a schizoid?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.183
+    },
+    {
+      "id": "23872",
+      "query": "What is the next big thing in education?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2134
+    },
+    {
+      "id": "11632",
+      "query": "How can I get the best grades/better grades at school?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2183
+    },
+    {
+      "id": "644",
+      "query": "Where or what is the strangest place you have ever had sex?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2113
+    },
+    {
+      "id": "6079",
+      "query": "Is it possible to recover an email deleted from the Gmail trash folder?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2018
+    },
+    {
+      "id": "2376",
+      "query": "How should I start contributing for Linux?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1833
+    },
+    {
+      "id": "11278",
+      "query": "Saying that zero point energy is infinite and that there are infinite potential virtual particles in vacuum is real or a mathematical thing?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2048
+    },
+    {
+      "id": "11127",
+      "query": "How can I track a mobile number and the location from any sofware?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2081
+    },
+    {
+      "id": "29562",
+      "query": "When did you first realize you've grown up?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1518
+    },
+    {
+      "id": "28620",
+      "query": "What are the best moments of your life?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1682
+    },
+    {
+      "id": "2355",
+      "query": "What are best ways to prepare for cat 2017?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1968
+    },
+    {
+      "id": "15203",
+      "query": "What are some lesser known facts about Draupadi?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1513
+    },
+    {
+      "id": "2331",
+      "query": "What is the environmental impact of burning coal?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1532
+    },
+    {
+      "id": "14827",
+      "query": "What are some good sad indie rock song?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2058
+    },
+    {
+      "id": "10205",
+      "query": "Can I fall pregnant after 3days of my period?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2077
+    },
+    {
+      "id": "26130",
+      "query": "When I'm reading Quora on my mobile phone, how do I get rid of the screen that keeps nagging me to install the app?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2125
+    },
+    {
+      "id": "9664",
+      "query": "How would a Trump presidency affect schools accessibility for international students?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2148
+    },
+    {
+      "id": "20547",
+      "query": "What are Free online IQ tests?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1767
+    },
+    {
+      "id": "12312",
+      "query": "What is it like to be a pornstar?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.209
+    },
+    {
+      "id": "16588",
+      "query": "How can you do macaroni dishes without cheese?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2185
+    },
+    {
+      "id": "3661",
+      "query": "Do the old people set a good exanplae in our society?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1589
+    },
+    {
+      "id": "4839",
+      "query": "What makes boys attracted by girls?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.224
+    },
+    {
+      "id": "1176",
+      "query": "Which are the best companies for search engine optimization in Delhi?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2199
+    },
+    {
+      "id": "205",
+      "query": "How does one become a NASCAR driver?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2217
+    },
+    {
+      "id": "11655",
+      "query": "How will long distance relationship work?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1671
+    },
+    {
+      "id": "28374",
+      "query": "Which brand should I go for when buying men\u2019s boxer shorts?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1761
+    },
+    {
+      "id": "89",
+      "query": "What do I do to reduce my anxiety?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1832
+    },
+    {
+      "id": "2185",
+      "query": "How did Tony Robbins change your life?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1638
+    },
+    {
+      "id": "14077",
+      "query": "What is the easiest way of committing suicide?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2086
+    },
+    {
+      "id": "23399",
+      "query": "What is the difference between abstract and interface?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1496
+    },
+    {
+      "id": "5457",
+      "query": "How can I improve focus on my studies?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1491
+    },
+    {
+      "id": "17296",
+      "query": "How can we predict the future?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1522
+    },
+    {
+      "id": "17614",
+      "query": "How can I make my penis thicker?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1695
+    },
+    {
+      "id": "25925",
+      "query": "What are the most interesting, unique, and rare features about the English language?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2168
+    },
+    {
+      "id": "12853",
+      "query": "All my questions on Quora need improvement. What is the best way to ask a question on Quora?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2218
+    },
+    {
+      "id": "4416",
+      "query": "How would you define India in one sentence?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1724
+    },
+    {
+      "id": "18285",
+      "query": "How would it look like in our sky if Mars was orbiting our Sun on the exact same orbital track as our Earth but it was about 4 months ahead of us?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2096
+    },
+    {
+      "id": "1515",
+      "query": "Should people choose Android or iOS first to build their App?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1663
+    },
+    {
+      "id": "13118",
+      "query": "What is the use of GST bill?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1489
+    },
+    {
+      "id": "11132",
+      "query": "How can I get early every morning without struggling?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1501
+    },
+    {
+      "id": "28648",
+      "query": "What is the fastest way to learn Russian?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1613
+    },
+    {
+      "id": "6471",
+      "query": "How can I get leftover dog urine smell out of my room/carpet?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1998
+    },
+    {
+      "id": "12340",
+      "query": "What's your favorite anime? And why?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1626
+    },
+    {
+      "id": "15294",
+      "query": "What's the best argument AGAINST legalization of marijuana?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2079
+    },
+    {
+      "id": "12080",
+      "query": "What is the real truth about Area 51?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2011
+    },
+    {
+      "id": "26867",
+      "query": "How do you know if you have fallen in love with someone and not just like them?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1988
+    },
+    {
+      "id": "20601",
+      "query": "How many levels of pressure force can the 3D-Touch recognition of the iPhone 7 differentiate?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1961
+    },
+    {
+      "id": "29728",
+      "query": "Is education a Jewish tradition?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1552
+    },
+    {
+      "id": "2747",
+      "query": "What is the best way to clean a flat screen monitor?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2226
+    },
+    {
+      "id": "577",
+      "query": "What are the best laptops under 50K in India presently?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1518
+    },
+    {
+      "id": "10083",
+      "query": "What do you want to change about your life?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2045
+    },
+    {
+      "id": "23738",
+      "query": "What are the best moments of your life?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1459
+    },
+    {
+      "id": "7232",
+      "query": "What is the best way to quit my job?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.14
+    },
+    {
+      "id": "24665",
+      "query": "Is it legal to drive a right hand car in US?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1489
+    },
+    {
+      "id": "17003",
+      "query": "What are some preparations strategies for the Civil Services Exam?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1488
+    },
+    {
+      "id": "18321",
+      "query": "What are the funniest jokes / stories you ever heard?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2017
+    },
+    {
+      "id": "28309",
+      "query": "What should be done to get admission in harvard?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2055
+    },
+    {
+      "id": "10342",
+      "query": "How can I lose weight quickly?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1998
+    },
+    {
+      "id": "13208",
+      "query": "What is the effect of demonetization of 500 and 1000 rupees note?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1486
+    },
+    {
+      "id": "9850",
+      "query": "How do I set goals?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1519
+    },
+    {
+      "id": "27432",
+      "query": "What is the best song to do a lyric prank on your best friend?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1543
+    },
+    {
+      "id": "3415",
+      "query": "What are the places to visit in Malaysia and Singapore?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1592
+    },
+    {
+      "id": "21990",
+      "query": "What will be your new year resolution for 2017 and your plan of execution?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1509
+    },
+    {
+      "id": "16073",
+      "query": "Is being an introvert the new cool?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1543
+    },
+    {
+      "id": "19574",
+      "query": "Is it possible to store the energy of lightning?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2077
+    },
+    {
+      "id": "8708",
+      "query": "How do you program a Dish remote?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2159
+    },
+    {
+      "id": "28397",
+      "query": "How get can I rid of belly fat?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2083
+    },
+    {
+      "id": "25706",
+      "query": "How can a person build his/her presence of mind?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.181
+    },
+    {
+      "id": "19286",
+      "query": "What is the best Hadoop training center in Chennai?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1439
+    },
+    {
+      "id": "11998",
+      "query": "How does salt affect the boiling point of water and why?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1497
+    },
+    {
+      "id": "26889",
+      "query": "Scientifically, when is the right time to marry?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1491
+    },
+    {
+      "id": "16673",
+      "query": "Where and how can I learn everything about real estate?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1505
+    },
+    {
+      "id": "4747",
+      "query": "What is the best horror book ever written?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1496
+    },
+    {
+      "id": "17746",
+      "query": "Which country in Europe will be the best place to relocate?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1547
+    },
+    {
+      "id": "18567",
+      "query": "I lost my password with my Gmail account. How do I reset it without the account recovery info?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1611
+    },
+    {
+      "id": "25052",
+      "query": "What are the best topics for Paper Presentation?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1493
+    },
+    {
+      "id": "23154",
+      "query": "How can the drive from Edmonton to Auckland be described, and how do these cities' attractions compare to those in Oshawa?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1487
+    },
+    {
+      "id": "2030",
+      "query": "How do I learn to do business?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1489
+    },
+    {
+      "id": "3219",
+      "query": "How could I make money online?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1476
+    },
+    {
+      "id": "26401",
+      "query": "Approximately how many students drop a year for JEE Mains?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1927
+    },
+    {
+      "id": "12686",
+      "query": "Why do girls make sound while having sex?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1978
+    },
+    {
+      "id": "21279",
+      "query": "How should I study?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1943
+    },
+    {
+      "id": "21165",
+      "query": "Can Google employees use iPhones?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1441
+    },
+    {
+      "id": "23369",
+      "query": "Why was/is Raj Kapoor famous in Russia?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2008
+    },
+    {
+      "id": "13848",
+      "query": "I ejaculate very early while masturbating, will it be same while having sex?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2005
+    },
+    {
+      "id": "11855",
+      "query": "How can I get 95% in icse boards?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1948
+    },
+    {
+      "id": "12244",
+      "query": "How do I fire people?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1982
+    },
+    {
+      "id": "27487",
+      "query": "What's the best dream you've ever had?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1488
+    },
+    {
+      "id": "17910",
+      "query": "Is it true that black holes really don't exist ?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1483
+    },
+    {
+      "id": "14257",
+      "query": "What will happen to the outer gas giants when our sun is in its red giant phase?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.148
+    },
+    {
+      "id": "18915",
+      "query": "If a Bollywood movie were made on the life and career of Dhirubhai Ambani, what would be its after interval scene?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1485
+    },
+    {
+      "id": "16219",
+      "query": "What are some of the best video games of 2016? Why?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2004
+    },
+    {
+      "id": "9044",
+      "query": "Is it necessary to get a degree to land a software developer job?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2031
+    },
+    {
+      "id": "28345",
+      "query": "Does shaving make facial hair grow faster?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1568
+    },
+    {
+      "id": "12354",
+      "query": "How do I download video from YouTube to iPhone?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1982
+    },
+    {
+      "id": "3930",
+      "query": "What is the best option according to you? Would you take the JEE Mains exam online or offline?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1973
+    },
+    {
+      "id": "12125",
+      "query": "How much does it cost to patent something?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2136
+    },
+    {
+      "id": "17381",
+      "query": "What are some reasons that might cause me to be three days late on my period?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1365
+    },
+    {
+      "id": "1904",
+      "query": "If Trump is elected, will I be held from entering the US as an international student?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1496
+    },
+    {
+      "id": "24542",
+      "query": "What will be Hillary Clinton's India policy if she is elected as the President?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1994
+    },
+    {
+      "id": "19635",
+      "query": "Why do some people currently believe the earth is flat?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1954
+    },
+    {
+      "id": "20273",
+      "query": "How many days a week should I work out?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1966
+    },
+    {
+      "id": "24359",
+      "query": "What is the funniest movie to watch?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2026
+    },
+    {
+      "id": "7478",
+      "query": "Why do so may people ask questions on Quora that can easily be found by a simple Google searh?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.206
+    },
+    {
+      "id": "2194",
+      "query": "Should I drop one year after my BBA for CAT preparation?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.155
+    },
+    {
+      "id": "4862",
+      "query": "From where shall I start to learn hacking?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2037
+    },
+    {
+      "id": "4949",
+      "query": "What is the scope of data science?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.157
+    },
+    {
+      "id": "26346",
+      "query": "What is the WPS button on a router for and what does it do?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2031
+    },
+    {
+      "id": "23727",
+      "query": "How do I build traffic to my website?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1701
+    },
+    {
+      "id": "28507",
+      "query": "What should the purpose of your life?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2161
+    },
+    {
+      "id": "16225",
+      "query": "How do I add more topics to my Quora account?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2038
+    },
+    {
+      "id": "22709",
+      "query": "Which PSUs visit campuses for placements in India?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1458
+    },
+    {
+      "id": "2446",
+      "query": "When living alone, how can I make life more interesting?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1486
+    },
+    {
+      "id": "9967",
+      "query": "Why is life so unfair for some people?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1604
+    },
+    {
+      "id": "23926",
+      "query": "Could Donald Trump actually be a good president, even better than Hillary Clinton would be?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2116
+    },
+    {
+      "id": "2399",
+      "query": "Can you suggest some best people to follow on Quora?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2093
+    },
+    {
+      "id": "29956",
+      "query": "What has Pakistan contributed to the world that can be considered good for the development of the world?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1988
+    },
+    {
+      "id": "13995",
+      "query": "How did Donald Trump manage to win the 2016 US election?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2019
+    },
+    {
+      "id": "1542",
+      "query": "How do I download Pok\u00e9mon GO on Android phone in India?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1517
+    },
+    {
+      "id": "14881",
+      "query": "which laptop will be best under Rs 30,000?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1476
+    },
+    {
+      "id": "15259",
+      "query": "What caused the fall of the Roman Empire? How would the world be if they were still around?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1986
+    },
+    {
+      "id": "28216",
+      "query": "What is a refereed journal?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1498
+    },
+    {
+      "id": "6726",
+      "query": "Why sugar is bad for health?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2021
+    },
+    {
+      "id": "758",
+      "query": "How do I check mobile inbuilt battery capacity?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2
+    },
+    {
+      "id": "12075",
+      "query": "What are the reasons why a cat won't stop meowing?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.196
+    },
+    {
+      "id": "5324",
+      "query": "How do I join Anti Terrorist Squad?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1506
+    },
+    {
+      "id": "18121",
+      "query": "Why do athletes bite their medals?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1562
+    },
+    {
+      "id": "17132",
+      "query": "Why do you think there are so many poor people in the world? How did it get that way? Were there always poor people?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2158
+    },
+    {
+      "id": "25285",
+      "query": "What is the storyline of Star Wars Rogue One? What timeline does it happen in?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1628
+    },
+    {
+      "id": "21722",
+      "query": "What is the maximum number of upvotes one answer can get on Quora?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.162
+    },
+    {
+      "id": "11911",
+      "query": "What are the advantages of pranic healing?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.165
+    },
+    {
+      "id": "29580",
+      "query": "What are the best movies of all time?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1607
+    },
+    {
+      "id": "16589",
+      "query": "How do you know if she is the one for you?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2063
+    },
+    {
+      "id": "3663",
+      "query": "What is natural selection? What is the importance of this?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1597
+    },
+    {
+      "id": "21814",
+      "query": "Why is \"\"what is the meaning of life\"\" supposedly so deep a question?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1586
+    },
+    {
+      "id": "11008",
+      "query": "Where do I find startups that are looking for a tech partner?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1582
+    },
+    {
+      "id": "8105",
+      "query": "What is the best way to deal with mental stress?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1542
+    },
+    {
+      "id": "3156",
+      "query": "How can I add pictures on Quora?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1567
+    },
+    {
+      "id": "26595",
+      "query": "What is a perfect number?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1567
+    },
+    {
+      "id": "5749",
+      "query": "How banning 500 and 1000 rupees note will curb the corruption and black money in India?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1579
+    },
+    {
+      "id": "9138",
+      "query": "What are some of the best ways to learn music theory?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1971
+    },
+    {
+      "id": "29072",
+      "query": "How do I prepare for a Amazon SDE Interview in X weeks/months?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2126
+    },
+    {
+      "id": "19112",
+      "query": "Will international college students be negatively affected if Trump becomes president?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1864
+    },
+    {
+      "id": "7572",
+      "query": "What is the healthiest juice for juicing?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1741
+    },
+    {
+      "id": "10114",
+      "query": "Is GDP a good measure for the standard of living?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1542
+    },
+    {
+      "id": "10908",
+      "query": "What is the Sahara, and how do the average temperatures there compare to the ones in the Arabian Desert?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2146
+    },
+    {
+      "id": "19118",
+      "query": "What are the best discussions on Quora?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1566
+    },
+    {
+      "id": "22342",
+      "query": "How do I decorate a 70's and 80's bedroom theme?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1485
+    },
+    {
+      "id": "1171",
+      "query": "Will Donald Trump really ban Muslims, deport illegal immigrants, and build a wall? Or is he doing it to bring excitement to his supporters?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2005
+    },
+    {
+      "id": "28360",
+      "query": "Who are the 3 players that Dhoni refers to in the movie MS Dhoni: The Untold Story that were to be removed from the team?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1605
+    },
+    {
+      "id": "22105",
+      "query": "Why does the Quora app uses so much data?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1476
+    },
+    {
+      "id": "17764",
+      "query": "What are the best pick up lines?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1478
+    },
+    {
+      "id": "23850",
+      "query": "What would a conventional war between the US and Russia look like?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1478
+    },
+    {
+      "id": "485",
+      "query": "What is so different about GoPro Camera from other cameras that can take videos?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1539
+    },
+    {
+      "id": "28382",
+      "query": "What is the purpose of life? Why are we here? We spend our life earning money. Is that really what we want?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1554
+    },
+    {
+      "id": "26263",
+      "query": "What are some things every Indian should know and feel proud about?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1533
+    },
+    {
+      "id": "13868",
+      "query": "How do I learn video editing as a novice?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2048
+    },
+    {
+      "id": "1601",
+      "query": "Which are some of the most productive and engaging groups on LinkedIn?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1535
+    },
+    {
+      "id": "11140",
+      "query": "How do I add photos to my questions on Quora?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1423
+    },
+    {
+      "id": "9059",
+      "query": "What is it like to be raped?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1482
+    },
+    {
+      "id": "10072",
+      "query": "What will be the cut-off for KVPY SA stream in 2016?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1502
+    },
+    {
+      "id": "13008",
+      "query": "What is computer forensic?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1525
+    },
+    {
+      "id": "27753",
+      "query": "What are CoCo bonds?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1607
+    },
+    {
+      "id": "4384",
+      "query": "Which is the best book for learning Python 3 for absolute beginners?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.226
+    },
+    {
+      "id": "22328",
+      "query": "How do torrents work?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2137
+    },
+    {
+      "id": "29564",
+      "query": "Which is the best heritage hotel in Ranikhet?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1675
+    },
+    {
+      "id": "15453",
+      "query": "What are the sexiest pornstars?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2092
+    },
+    {
+      "id": "7264",
+      "query": "How many shopping malls are there in the US with over 50 retailers?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2011
+    },
+    {
+      "id": "15104",
+      "query": "Do you regret transitioning to another sex?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1646
+    },
+    {
+      "id": "16736",
+      "query": "How do I get all the list registered to your gmail account?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1598
+    },
+    {
+      "id": "9201",
+      "query": "What is your favorite past Halloween costume?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.156
+    },
+    {
+      "id": "17184",
+      "query": "How do I overcome my shyness towards girls?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.161
+    },
+    {
+      "id": "25364",
+      "query": "Do you think that human beings will go extinct?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1592
+    },
+    {
+      "id": "14085",
+      "query": "What is your personal definition of religion / religious beliefs?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1604
+    },
+    {
+      "id": "8943",
+      "query": "How do you feel as a libertarian about abortion?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1605
+    },
+    {
+      "id": "9185",
+      "query": "What steps should I take to become a successful indie game developer?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2062
+    },
+    {
+      "id": "24965",
+      "query": "What is the best time to exercise?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1634
+    },
+    {
+      "id": "16973",
+      "query": "Where are the Historical places in Chhattisgarh?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1683
+    },
+    {
+      "id": "11211",
+      "query": "What are the best things to do in this world?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1729
+    },
+    {
+      "id": "16566",
+      "query": "What is the best business idea with surefire profits and less investment?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1666
+    },
+    {
+      "id": "8212",
+      "query": "How do I lose my weight from 58 to 50 kgs?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1649
+    },
+    {
+      "id": "14661",
+      "query": "How do I lose weight without stopping?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1772
+    },
+    {
+      "id": "12984",
+      "query": "How do Quora admins make decisions about edit-blocks and bans? How does someone appeal this decision?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1678
+    },
+    {
+      "id": "10725",
+      "query": "How could I make money online?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.164
+    },
+    {
+      "id": "13404",
+      "query": "Where can I get right commercial loan solution in Sydney?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2064
+    },
+    {
+      "id": "21634",
+      "query": "Who do you think is a better writer: Ashwin Sanghi or Amish Tripathi?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1961
+    },
+    {
+      "id": "29217",
+      "query": "What is field of view in a microscope and how do you find it?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1662
+    },
+    {
+      "id": "17613",
+      "query": "What is the mass of the Sun?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2173
+    },
+    {
+      "id": "29662",
+      "query": "I am an Indian student going to the US in Fall 2016. How bad will it be for international students if Trump gets elected as President?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2145
+    },
+    {
+      "id": "2179",
+      "query": "How do I build a computer?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2197
+    },
+    {
+      "id": "24193",
+      "query": "What small things immediately brighten your day?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1967
+    },
+    {
+      "id": "2788",
+      "query": "I have completed diploma in mechanical engineering in India.how can I go to Germany for B.E /B.Tech?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.208
+    },
+    {
+      "id": "28504",
+      "query": "Why does time slow down when moving near the speed of light but...?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1603
+    },
+    {
+      "id": "12755",
+      "query": "What do you think about the new Justice League trailer?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1634
+    },
+    {
+      "id": "26275",
+      "query": "After attack in Uri is indian army going to declare war against pakistan?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1677
+    },
+    {
+      "id": "13759",
+      "query": "How do I cope with extreme anxiety?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1673
+    },
+    {
+      "id": "9325",
+      "query": "How does invalidating \u20b9500 and \u20b91000 notes help us fight corruption and bring back black money?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.195
+    },
+    {
+      "id": "26738",
+      "query": "Can World War 3 ever take place?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1663
+    },
+    {
+      "id": "27085",
+      "query": "What are some of the most mind-boggling paradoxes?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1644
+    },
+    {
+      "id": "16341",
+      "query": "Why is Hillary Clinton so evil?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.2171
+    },
+    {
+      "id": "12026",
+      "query": "How does Quora sort multiple answers for a question?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1647
+    },
+    {
+      "id": "15129",
+      "query": "How are variance and standard deviation semantically different?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1663
+    },
+    {
+      "id": "1304",
+      "query": "What's the best cream to remove or minimize old stretch marks?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1608
+    },
+    {
+      "id": "1824",
+      "query": "What other financial topics are you curious to learn about?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.2065
+    },
+    {
+      "id": "21219",
+      "query": "What do you need to learn or know to be a white hat hacker?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.162
+    },
+    {
+      "id": "28055",
+      "query": "Is Modi's decision on demonetization of 500 and 1000 notes welcomed by public?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1623
+    },
+    {
+      "id": "19799",
+      "query": "How did Donald Trump win the election?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1984
+    },
+    {
+      "id": "29003",
+      "query": "How can I lose weight at age 55?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1589
+    },
+    {
+      "id": "24956",
+      "query": "Which is the best movie you ever watched?",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1978
+    },
+    {
+      "id": "3043",
+      "query": "What are some of the plot holes in Harry Potter?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1645
+    },
+    {
+      "id": "24056",
+      "query": "What is alloy steel?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1645
+    },
+    {
+      "id": "28136",
+      "query": "What does DC stand for in Washington DC?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1869
+    },
+    {
+      "id": "20894",
+      "query": "Are there any humans who have naturally purple eyes?",
+      "hit": true,
+      "label": null,
+      "latency_sec": 0.1715
+    },
+    {
+      "id": "28299",
+      "query": "How do you deal with your fear of going to the gym? I get extremely anxious.",
+      "hit": false,
+      "label": null,
+      "latency_sec": 0.1733
+    }
+  ]
+}
